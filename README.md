@@ -46,6 +46,8 @@ A curated list of awesome things related to Vue 3
 - [Reactivity in Vue 3](https://www.netlify.com/blog/2020/03/10/reactivity-in-vue-3/)
 - [What Does Vue 3.0 Mean for Web Development?](https://medium.com/@mattmaribojoc/what-does-vue-3-0-mean-for-web-development-851052fc0138)
 - [How to Use Vue’s watchEffect to Track Reactive Dependencies](https://medium.com/better-programming/using-vue-watcheffect-to-track-reactive-dependencies-7c99d76304e7)
+- [Vue 3's Global Mounting](http://wildermuth.com/2020/05/17/Vue-3-s-Global-Mounting)
+- [Where Did Filters Go in Vue 3?](http://wildermuth.com/2020/05/11/Where-Did-Filters-Go-in-Vue-3)
 
 ## Packages
 
