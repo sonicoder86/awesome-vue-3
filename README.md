@@ -5,7 +5,7 @@
   <br>
 </p>
 
-# awesome-vue-3
+# Awesome Vue 3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome things related to Vue 3
 
@@ -44,6 +44,8 @@ A curated list of awesome things related to Vue 3
 - [Best Practices for Testing Vue 3 Components](https://lmiller1990.github.io/electic/posts/20200301_best_practices_for_testing_vue_3_components.html)
 - [Vuejs 3 and TypeScript](https://lmiller1990.github.io/electic/posts/20200215_vuejs_3_and_typescript.html)
 - [Reactivity in Vue 3](https://www.netlify.com/blog/2020/03/10/reactivity-in-vue-3/)
+- [What Does Vue 3.0 Mean for Web Development?](https://medium.com/@mattmaribojoc/what-does-vue-3-0-mean-for-web-development-851052fc0138)
+- [How to Use Vue’s watchEffect to Track Reactive Dependencies](https://medium.com/better-programming/using-vue-watcheffect-to-track-reactive-dependencies-7c99d76304e7)
 
 ## Packages
 
@@ -83,6 +85,12 @@ A curated list of awesome things related to Vue 3
 - [Evan You - What's Coming in Vue 3](https://www.softwaretalks.io/v/10323/evan-you-whats-coming-in-vue-3-0)
 - [Vue 3: What I'm Most Excited About with Chris Fritz](https://www.youtube.com/watch?v=b554XmaTWrw)
 - [Live coding: The new Composition API - Jason Yu](https://www.youtube.com/watch?v=JON6X6Wmteo)
+- [Natalia Tepluhina - You might not need Vuex](https://www.youtube.com/watch?v=sjB6wamZQN0)
+- [Design Principles of Vue 3.0 by Evan You](https://www.youtube.com/watch?v=WLpLYhnGqPA)
+- [Why the Vue 3 Composition API?](https://www.youtube.com/watch?v=6HUjDKVn0e0)
+- [Vue 3 and Composition API by Alex Kyriakidis](https://www.youtube.com/watch?v=ysnbEVkvgm4)
+- [Thorsten Lünborg - Composition API Best Practices](https://www.youtube.com/watch?v=6D58SI9P-aU)
+- [Damian Dulisz - Vuelidate version for Vue 3.0](https://www.youtube.com/watch?v=5-Z-EmTnDyU)
 
 ## Books
 
@@ -95,4 +103,3 @@ A curated list of awesome things related to Vue 3
 - [Build a Gmail Clone with Vue 3](https://www.vuemastery.com/courses/build-a-gmail-clone-with-vue3/tour-the-project)
 - [Vue 3 Reactivity](https://www.vuemastery.com/courses/vue-3-reactivity/vue3-reactivity/)
 - [Vue.js The Composition API](https://vuejs-course.com/)
-
