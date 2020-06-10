@@ -67,16 +67,16 @@ A curated list of awesome things related to Vue 3
 
 ## Examples
 
-- [vue-3-playground](https://github.com/blacksonic/vue-3-playground)
-- [vue3-webpack-boilerplate](https://github.com/starkovsky/vue3-webpack-boilerplate)
-- [vue-composition-toolkit](https://github.com/HcySunYang/vue-composition-toolkit)
-- [vite-tailwind-starter](https://github.com/posva/vite-tailwind-starter)
-- [todomvc-vue-composition-api](https://github.com/blacksonic/todomvc-vue-composition-api)
-- [composition-api-demos](https://github.com/LinusBorg/composition-api-demos)
-- [Vue3Todo](https://github.com/ShetlandJ/Vue3Todo)
-- [movie-search-vue](https://github.com/blacksonic/movie-search-vue)
-- [vue-next-webpack-preview](https://github.com/vuejs/vue-next-webpack-preview)
-- [vue-3-reactivity](https://github.com/Code-Pop/vue-3-reactivity)
+- [vue-3-playground](https://github.com/blacksonic/vue-3-playground) - Vue 3 Playground packed with all the new features
+- [vue3-webpack-boilerplate](https://github.com/starkovsky/vue3-webpack-boilerplate) - Vue 3 Webpack Boilerplate (Vue 3, Vue Router 4, Vuex 4, Typescript) 
+- [vue-composition-toolkit](https://github.com/HcySunYang/vue-composition-toolkit) - 🔫 Vue3 Composition-API toolkit
+- [vite-tailwind-starter](https://github.com/posva/vite-tailwind-starter) - Starter using Vite + Tailwind for super fast prototyping
+- [todomvc-vue-composition-api](https://github.com/blacksonic/todomvc-vue-composition-api) - TodoMVC built with Vue 3 Composition Api and Vuex
+- [composition-api-demos](https://github.com/LinusBorg/composition-api-demos) - A Vue.js app demonstarting various use cases for the new composition API
+- [Vue3Todo](https://github.com/ShetlandJ/Vue3Todo) - A repository showcasing the new Vue 3.0 Composition API with simple examples
+- [movie-search-vue](https://github.com/blacksonic/movie-search-vue) - Movie search app with the Vue 3 Composition API
+- [vue-next-webpack-preview](https://github.com/vuejs/vue-next-webpack-preview) - Minimal webpack setup for Vue 3 (beta)
+- [vue-3-reactivity](https://github.com/Code-Pop/vue-3-reactivity) - Code from the Vue 3 Reactivity course
 
 ## Videos
 
