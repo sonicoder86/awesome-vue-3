@@ -48,6 +48,7 @@ A curated list of awesome things related to Vue 3
 - [How to Use Vue’s watchEffect to Track Reactive Dependencies](https://medium.com/better-programming/using-vue-watcheffect-to-track-reactive-dependencies-7c99d76304e7)
 - [Vue 3's Global Mounting](http://wildermuth.com/2020/05/17/Vue-3-s-Global-Mounting)
 - [Where Did Filters Go in Vue 3?](http://wildermuth.com/2020/05/11/Where-Did-Filters-Go-in-Vue-3)
+- [Go async in Vue 3 with Suspense](https://vuedose.tips/go-async-in-vue-3-with-suspense/)
 
 ## Packages
 
@@ -66,6 +67,7 @@ A curated list of awesome things related to Vue 3
 - [vueuse](https://github.com/antfu/vueuse) - 🧰 Collection of essential Vue Composition API utils works for Vue 2 and 3
 - [vue-use-kit](https://github.com/microcipcip/vue-use-kit) - 🛠️ Useful collection of Vue composition API functions
 - [vue-condition-watcher](https://github.com/runkids/vue-condition-watcher) - 🕶 Vue Composition API for automatic fetch data when condition has been changed
+- [vue-router-compositions](https://github.com/greenpress/vue-router-compositions) - VueRouter Composition-API utils library
 
 ## Examples
 
