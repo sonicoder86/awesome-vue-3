@@ -51,6 +51,10 @@ A curated list of awesome things related to Vue 3
 - [Go async in Vue 3 with Suspense](https://vuedose.tips/go-async-in-vue-3-with-suspense/)
 - [Faster hot reloading for Vue development with Vite](https://www.vuemastery.com/blog/faster-hot-reloading-for-vue-development-with-vite/)
 - [Create a i18n Plugin with Composition API in Vue.js 3](https://vuedose.tips/create-a-i18n-plugin-with-composition-api-in-vuejs-3/)
+- [Clean, Scalable Forms with Vue Composition API](https://medium.com/js-dojo/clean-scalable-forms-with-vue-composition-api-6db03cccabde)
+- [Easily switch to Composition API in Vue.js 3](https://vuedose.tips/easily-switch-to-composition-api-in-vuejs-3/)
+- [Use old instance properties in Composition API in Vue.js 3](https://vuedose.tips/use-old-instance-properties-in-composition-api-in-vuejs-3/)
+- [Access template refs in Composition API in Vue.js 3](https://vuedose.tips/access-template-refs-in-composition-api-in-vuejs-3/)
 
 ## Packages
 
