@@ -55,6 +55,9 @@ A curated list of awesome things related to Vue 3
 - [Easily switch to Composition API in Vue.js 3](https://vuedose.tips/easily-switch-to-composition-api-in-vuejs-3/)
 - [Use old instance properties in Composition API in Vue.js 3](https://vuedose.tips/use-old-instance-properties-in-composition-api-in-vuejs-3/)
 - [Access template refs in Composition API in Vue.js 3](https://vuedose.tips/access-template-refs-in-composition-api-in-vuejs-3/)
+- [The process: Making Vue 3](https://increment.com/frontend/making-vue-3/)
+- [Context and Provider Pattern with the Vue 3 Composition API](https://markus.oberlehner.net/blog/context-and-provider-pattern-with-the-vue-3-composition-api/)
+- [Understanding Reactivity in Vue 3.0](https://dev.to/jinjiang/understanding-reactivity-in-vue-3-0-1jni)
 
 ## Packages
 
