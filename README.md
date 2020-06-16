@@ -49,6 +49,8 @@ A curated list of awesome things related to Vue 3
 - [Vue 3's Global Mounting](http://wildermuth.com/2020/05/17/Vue-3-s-Global-Mounting)
 - [Where Did Filters Go in Vue 3?](http://wildermuth.com/2020/05/11/Where-Did-Filters-Go-in-Vue-3)
 - [Go async in Vue 3 with Suspense](https://vuedose.tips/go-async-in-vue-3-with-suspense/)
+- [Faster hot reloading for Vue development with Vite](https://www.vuemastery.com/blog/faster-hot-reloading-for-vue-development-with-vite/)
+- [Create a i18n Plugin with Composition API in Vue.js 3](https://vuedose.tips/create-a-i18n-plugin-with-composition-api-in-vuejs-3/)
 
 ## Packages
 
