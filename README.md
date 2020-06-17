@@ -116,3 +116,4 @@ A curated list of awesome things related to Vue 3
 - [Build a Gmail Clone with Vue 3](https://www.vuemastery.com/courses/build-a-gmail-clone-with-vue3/tour-the-project)
 - [Vue 3 Reactivity](https://www.vuemastery.com/courses/vue-3-reactivity/vue3-reactivity/)
 - [Vue.js The Composition API](https://vuejs-course.com/)
+- [From Vue 2 to Vue 3](https://www.vuemastery.com/courses/from-vue2-to-vue3/from-vue-2-to-vue-3/)
