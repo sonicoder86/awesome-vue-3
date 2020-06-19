@@ -104,6 +104,7 @@ A curated list of awesome things related to Vue 3
 - [Vue 3 and Composition API by Alex Kyriakidis](https://www.youtube.com/watch?v=ysnbEVkvgm4)
 - [Thorsten Lünborg - Composition API Best Practices](https://www.youtube.com/watch?v=6D58SI9P-aU)
 - [Damian Dulisz - Vuelidate version for Vue 3.0](https://www.youtube.com/watch?v=5-Z-EmTnDyU)
+- [The State of Vue.js in 2020 - Why You Should Make The Leap - Gwendolyn Faraday](https://www.youtube.com/watch?v=eiUgVa2Td_k)
 
 ## Books
 
