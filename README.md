@@ -58,6 +58,7 @@ A curated list of awesome things related to Vue 3
 - [The process: Making Vue 3](https://increment.com/frontend/making-vue-3/)
 - [Context and Provider Pattern with the Vue 3 Composition API](https://markus.oberlehner.net/blog/context-and-provider-pattern-with-the-vue-3-composition-api/)
 - [Understanding Reactivity in Vue 3.0](https://dev.to/jinjiang/understanding-reactivity-in-vue-3-0-1jni)
+- [Set up Vue 3 linting in VSCode](https://blog.simohamed.tech/blog/vue3-lint/)
 
 ## Packages
 
