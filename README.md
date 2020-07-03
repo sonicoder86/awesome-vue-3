@@ -63,7 +63,7 @@ A curated list of awesome things related to Vue 3
 ## Packages
 
 - [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in beta)
-- [vue-cli-plugin-vue-next](https://github.com/vuejs/vue-cli-plugin-vue-next) - A Vue CLI plugin for trying out vue-next (experimental) 
+- [vue-cli-plugin-vue-next](https://github.com/vuejs/vue-cli-plugin-vue-next) - A Vue CLI plugin for trying out vue-next (experimental)
 - [vue-router-next](https://github.com/vuejs/vue-router-next) - The Vue 3 official router (WIP)
 - [vue-test-utils-next](https://github.com/vuejs/vue-test-utils-next) - The next iteration of Vue Test Utils, targeting Vue 3
 - [composition-api](https://github.com/vuejs/composition-api) - Vue2 plugin for the Composition API.
@@ -82,7 +82,7 @@ A curated list of awesome things related to Vue 3
 ## Examples
 
 - [vue-3-playground](https://github.com/blacksonic/vue-3-playground) - Vue 3 Playground packed with all the new features
-- [vue3-webpack-boilerplate](https://github.com/starkovsky/vue3-webpack-boilerplate) - Vue 3 Webpack Boilerplate (Vue 3, Vue Router 4, Vuex 4, Typescript) 
+- [vue3-webpack-boilerplate](https://github.com/starkovsky/vue3-webpack-boilerplate) - Vue 3 Webpack Boilerplate (Vue 3, Vue Router 4, Vuex 4, Typescript)
 - [vue-composition-toolkit](https://github.com/HcySunYang/vue-composition-toolkit) - 🔫 Vue3 Composition-API toolkit
 - [vite-tailwind-starter](https://github.com/posva/vite-tailwind-starter) - Starter using Vite + Tailwind for super fast prototyping
 - [todomvc-vue-composition-api](https://github.com/blacksonic/todomvc-vue-composition-api) - TodoMVC built with Vue 3 Composition Api and Vuex
@@ -109,6 +109,8 @@ A curated list of awesome things related to Vue 3
 
 ## Books
 
+- [Become a Ninja with Vue (EN and FR versions)](https://books.ninja-squad.com/vue)
+
 ## Courses
 
 - [The Vue.js 3 Master Class](https://vueschool.io/courses/the-vuejs-3-master-class)
@@ -119,3 +121,4 @@ A curated list of awesome things related to Vue 3
 - [Vue 3 Reactivity](https://www.vuemastery.com/courses/vue-3-reactivity/vue3-reactivity/)
 - [Vue.js The Composition API](https://vuejs-course.com/)
 - [From Vue 2 to Vue 3](https://www.vuemastery.com/courses/from-vue2-to-vue3/from-vue-2-to-vue-3/)
+- [Become a Ninja with Vue - online training (EN and FR versions)](https://vue-exercises.ninja-squad.com)
