@@ -59,6 +59,7 @@ A curated list of awesome things related to Vue 3
 - [Context and Provider Pattern with the Vue 3 Composition API](https://markus.oberlehner.net/blog/context-and-provider-pattern-with-the-vue-3-composition-api/)
 - [Understanding Reactivity in Vue 3.0](https://dev.to/jinjiang/understanding-reactivity-in-vue-3-0-1jni)
 - [Set up Vue 3 linting in VSCode](https://blog.simohamed.tech/blog/vue3-lint/)
+- [Headless Testing with Vite + Vue-Test-Utils](https://dev.to/aelbore/headless-testing-with-vite-vue-test-utils-3jd1) 
 
 ## Packages
 
@@ -91,6 +92,10 @@ A curated list of awesome things related to Vue 3
 - [movie-search-vue](https://github.com/blacksonic/movie-search-vue) - Movie search app with the Vue 3 Composition API
 - [vue-next-webpack-preview](https://github.com/vuejs/vue-next-webpack-preview) - Minimal webpack setup for Vue 3 (beta)
 - [vue-3-reactivity](https://github.com/Code-Pop/vue-3-reactivity) - Code from the Vue 3 Reactivity course
+- [vue-cart with import-maps](https://github.com/aelbore/vue-cart/tree/vue3-composition-api) - Basic Shopping Cart with Vue ES Module and Composition API (without bundler or build step)
+
+## Tools
+- [aria-vue](https://github.com/aelbore/aria-vue) - Headless testing with Vite + Vue + Vue-Testting-Utils
 
 ## Videos
 
