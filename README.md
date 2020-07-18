@@ -59,7 +59,9 @@ A curated list of awesome things related to Vue 3
 - [Context and Provider Pattern with the Vue 3 Composition API](https://markus.oberlehner.net/blog/context-and-provider-pattern-with-the-vue-3-composition-api/)
 - [Understanding Reactivity in Vue 3.0](https://dev.to/jinjiang/understanding-reactivity-in-vue-3-0-1jni)
 - [Set up Vue 3 linting in VSCode](https://blog.simohamed.tech/blog/vue3-lint/)
-- [Headless Testing with Vite + Vue-Test-Utils](https://dev.to/aelbore/headless-testing-with-vite-vue-test-utils-3jd1) 
+- [Headless Testing with Vite + Vue-Test-Utils](https://dev.to/aelbore/headless-testing-with-vite-vue-test-utils-3jd1)
+- [Use Composition API to easily handle API requests in Vue.js](https://vuedose.tips/use-composition-api-to-easily-handle-api-requests-in-vue-js/)
+- [You Might Not Need Vuex with Vue 3](https://dev.to/blacksonic/you-might-not-need-vuex-with-vue-3-52e4)
 
 ## Packages
 
