@@ -62,6 +62,8 @@ A curated list of awesome things related to Vue 3
 - [Headless Testing with Vite + Vue-Test-Utils](https://dev.to/aelbore/headless-testing-with-vite-vue-test-utils-3jd1)
 - [Use Composition API to easily handle API requests in Vue.js](https://vuedose.tips/use-composition-api-to-easily-handle-api-requests-in-vue-js/)
 - [You Might Not Need Vuex with Vue 3](https://dev.to/blacksonic/you-might-not-need-vuex-with-vue-3-52e4)
+- [Writing a vite plugin](https://medium.com/@axwdev/writing-a-vite-plugin-for-vue-3-5bcc1c0915e0)
+- [Be prepared to migrate your Vue app to Vue 3](https://dev.to/chenxeed/be-prepared-to-migrate-your-vue-app-to-vue-3-eom)
 
 ## Packages
 
