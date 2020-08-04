@@ -64,6 +64,7 @@ A curated list of awesome things related to Vue 3
 - [You Might Not Need Vuex with Vue 3](https://dev.to/blacksonic/you-might-not-need-vuex-with-vue-3-52e4)
 - [Writing a vite plugin](https://medium.com/@axwdev/writing-a-vite-plugin-for-vue-3-5bcc1c0915e0)
 - [Be prepared to migrate your Vue app to Vue 3](https://dev.to/chenxeed/be-prepared-to-migrate-your-vue-app-to-vue-3-eom)
+- [What’s New in Vue 3](https://www.grapecity.com/blogs/whats-new-in-vue-3)
 
 ## Packages
 
@@ -118,6 +119,7 @@ A curated list of awesome things related to Vue 3
 - [Damian Dulisz - Vuelidate version for Vue 3.0](https://www.youtube.com/watch?v=5-Z-EmTnDyU)
 - [The State of Vue.js in 2020 - Why You Should Make The Leap - Gwendolyn Faraday](https://www.youtube.com/watch?v=eiUgVa2Td_k)
 - [Full-Stack TypeScript with Vue.js 3, Node.js and PostgreSQL](https://www.youtube.com/watch?v=rLAElFkRrWI&list=PLhXZp00uXBk5hnHEIAFl74mZyLrVKKJAD)
+- [Vue 3: The Future of Front End](https://www.youtube.com/watch?v=dNBLq6aLpCA)
 
 ## Books
 
