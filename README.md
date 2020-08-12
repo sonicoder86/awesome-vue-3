@@ -86,6 +86,7 @@ A curated list of awesome things related to Vue 3
 - [vue-router-compositions](https://github.com/greenpress/vue-router-compositions) - VueRouter Composition-API utils library
 - [vue-use-switch-map](https://github.com/jfet97/vue-use-switch-map) - 👽 The power of the RxJS switchMap operator injected into the Vue composition world
 - [vue-use-infinite-scroll](https://github.com/jfet97/vue-use-infinite-scroll) - ♾️ A Vue composition function that makes infinite scroll a breeze
+- [vuehooks](https://github.com/jsbroks/vuehooks) - 🌟 Collection of utility composition functions for Vue
 
 ## Examples
 
