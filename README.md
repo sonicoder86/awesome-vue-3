@@ -65,6 +65,8 @@ A curated list of awesome things related to Vue 3
 - [Writing a vite plugin](https://medium.com/@axwdev/writing-a-vite-plugin-for-vue-3-5bcc1c0915e0)
 - [Be prepared to migrate your Vue app to Vue 3](https://dev.to/chenxeed/be-prepared-to-migrate-your-vue-app-to-vue-3-eom)
 - [What’s New in Vue 3](https://www.grapecity.com/blogs/whats-new-in-vue-3)
+- [What the Heck is Vite?](https://www.wrappixel.com/what-the-heck-is-vite/)
+- [Cool Features of Vue Router 4](https://vuejsdevelopers.com/topics/vue-router/)
 
 ## Packages
 
