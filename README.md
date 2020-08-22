@@ -89,6 +89,8 @@ A curated list of awesome things related to Vue 3
 - [vue-use-switch-map](https://github.com/jfet97/vue-use-switch-map) - 👽 The power of the RxJS switchMap operator injected into the Vue composition world
 - [vue-use-infinite-scroll](https://github.com/jfet97/vue-use-infinite-scroll) - ♾️ A Vue composition function that makes infinite scroll a breeze
 - [vuehooks](https://github.com/jsbroks/vuehooks) - 🌟 Collection of utility composition functions for Vue
+- [vue-cookie-next](https://github.com/anish2690/vue-cookie-next) - 🍪 A vue 3 plugin for handling browser cookies with typescript support.
+- [vue-draggable-next](https://github.com/anish2690/vue-draggable-next) - 🧱 A Vue 3 drag-and-drop component based on Sortable.js.
 
 ## Examples
 
@@ -105,6 +107,7 @@ A curated list of awesome things related to Vue 3
 - [vue-cart with import-maps](https://github.com/aelbore/vue-cart/tree/vue3-composition-api) - Basic Shopping Cart with Vue ES Module and Composition API (without bundler or build step)
 
 ## Tools
+
 - [aria-vue](https://github.com/aelbore/aria-vue) - Headless testing with Vite + Vue + Vue-Testting-Utils
 
 ## Videos
