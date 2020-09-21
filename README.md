@@ -97,6 +97,7 @@ A curated list of awesome things related to Vue 3
 - [vuehooks](https://github.com/jsbroks/vuehooks) - 🌟 Collection of utility composition functions for Vue
 - [vue-cookie-next](https://github.com/anish2690/vue-cookie-next) - 🍪 A vue 3 plugin for handling browser cookies with typescript support.
 - [vue-draggable-next](https://github.com/anish2690/vue-draggable-next) - 🧱 A Vue 3 drag-and-drop component based on Sortable.js.
+- [vue-toastification](https://github.com/Maronato/vue-toastification) - 🍞 Light, easy, and beautiful Toasts for Vue 2 and 3.
 
 ## Examples
 
