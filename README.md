@@ -75,7 +75,7 @@ A curated list of awesome things related to Vue 3
 
 ## Packages
 
-- [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in Release Candidate stage)
+- [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0
 - [vue-cli-plugin-vue-next](https://github.com/vuejs/vue-cli-plugin-vue-next) - A Vue CLI plugin for trying out vue-next (experimental)
 - [vue-router-next](https://github.com/vuejs/vue-router-next) - The Vue 3 official router (WIP)
 - [vue-test-utils-next](https://github.com/vuejs/vue-test-utils-next) - The next iteration of Vue Test Utils, targeting Vue 3
