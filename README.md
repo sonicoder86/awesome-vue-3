@@ -75,7 +75,7 @@ A curated list of awesome things related to Vue 3
 
 ## Packages
 
-- [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in Release Candidate stage)
+- [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0
 - [vue-cli-plugin-vue-next](https://github.com/vuejs/vue-cli-plugin-vue-next) - A Vue CLI plugin for trying out vue-next (experimental)
 - [vue-router-next](https://github.com/vuejs/vue-router-next) - The Vue 3 official router (WIP)
 - [vue-test-utils-next](https://github.com/vuejs/vue-test-utils-next) - The next iteration of Vue Test Utils, targeting Vue 3
@@ -83,8 +83,8 @@ A curated list of awesome things related to Vue 3
 - [vite](https://github.com/vitejs/vite) - Native-ESM powered web dev build tool. It's fast.
 - [vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator
 - [vue-use-web](https://github.com/logaretm/vue-use-web) - 🕸 Web APIs implemented as Vue.js composition functions
-- [vue-use-form](https://github.com/logaretm/vue-use-form) - ✅ A Vue.js composition API function to validate forms
 - [vee-validate](https://github.com/logaretm/vee-validate/tree/next) - VeeValidate (v4) Vue 3 Template driven form validation
+- [vuelidate-next](https://github.com/vuelidate/vuelidate/tree/next) - Vuelidate (next) - Simple, lightweight model-based validation 
 - [vue-compose-promise](https://github.com/posva/vue-compose-promise) - 💝 Promises using vue composition API
 - [vue-composition-toolkit](https://github.com/shuidi-fed/vue-composition-toolkit) - 💚 Vue3 Composition-API toolkit
 - [vue-composable](https://github.com/pikax/vue-composable) - Vue composition-api composable components
@@ -98,6 +98,7 @@ A curated list of awesome things related to Vue 3
 - [vue-cookie-next](https://github.com/anish2690/vue-cookie-next) - 🍪 A vue 3 plugin for handling browser cookies with typescript support.
 - [vue-draggable-next](https://github.com/anish2690/vue-draggable-next) - 🧱 A Vue 3 drag-and-drop component based on Sortable.js.
 - [vue-float-menu](https://github.com/prabhuignoto/vue-float-menu) - Customizable Floating Menu for Vue 3
+- [vue-toastification](https://github.com/Maronato/vue-toastification) - 🍞 Light, easy, and beautiful Toasts for Vue 2 and 3.
 
 ## Examples
 
