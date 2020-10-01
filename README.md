@@ -12,7 +12,7 @@ A curated list of awesome things related to Vue 3
 ## Official
 
 - [Official Documentation](https://v3.vuejs.org/)
-- [Vue Composition API](https://composition-api.vuejs.org/)
+- [Vue Composition API](https://v3.vuejs.org/guide/introduction.html)
 - [RFCs for substantial changes / feature additions to Vue core](https://github.com/vuejs/rfcs)
 
 ## Related awesome lists
