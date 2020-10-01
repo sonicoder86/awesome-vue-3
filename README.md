@@ -72,6 +72,7 @@ A curated list of awesome things related to Vue 3
 - [What’s New in Vue 3](https://www.grapecity.com/blogs/whats-new-in-vue-3)
 - [What the Heck is Vite?](https://www.wrappixel.com/what-the-heck-is-vite/)
 - [Cool Features of Vue Router 4](https://vuejsdevelopers.com/topics/vue-router/)
+- [Watch with @vue/reactivity](https://antfu.me/posts/watch-with-reactivity/)
 
 ## Packages
 
