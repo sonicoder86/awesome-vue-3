@@ -11,7 +11,7 @@ A curated list of awesome things related to Vue 3
 
 
 - [Resources](#resources)
-    - [Official Resources](#official)
+    - [Official](#official)
     - [Related awesome lists](#related-awesome-lists)
     - [Articles](#articles)
     - [Packages](#packages)
