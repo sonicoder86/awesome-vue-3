@@ -169,6 +169,7 @@ A curated list of awesome things related to Vue 3
 - [Vue 3 Deep Dive with Evan You](https://www.vuemastery.com/courses/vue3-deep-dive-with-evan-you/vue3-overview/)
 - [Build a Gmail Clone with Vue 3](https://www.vuemastery.com/courses/build-a-gmail-clone-with-vue3/tour-the-project)
 - [Vue 3 Reactivity](https://www.vuemastery.com/courses/vue-3-reactivity/vue3-reactivity/)
-- [Vue.js The Composition API](https://vuejs-course.com/)
+- [Vue.js: The Composition API](https://vuejs-course.com/courses/vuejs-3-composition-api)
+- [The Complete Vue.js 3 Crash Course](https://vuejs-course.com/courses/vuejs-3-complete-crash-course)
 - [From Vue 2 to Vue 3](https://www.vuemastery.com/courses/from-vue2-to-vue3/from-vue-2-to-vue-3/)
 - [Become a Ninja with Vue - online training (EN and FR versions)](https://vue-exercises.ninja-squad.com)
