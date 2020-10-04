@@ -9,6 +9,22 @@
 
 A curated list of awesome things related to Vue 3
 
+
+- [Resources](#resources)
+    - [Official](#official)
+    - [Related awesome lists](#related-awesome-lists)
+    - [Articles](#articles)
+    - [Packages](#packages)
+    - [Examples](#examples)
+    - [Tools](#tools)
+    - [Videos](#videos)
+    - [Books](#books)
+    - [Courses](#courses)
+
+
+# Resources
+
+
 ## Official
 
 - [Official Documentation](https://v3.vuejs.org/)
@@ -73,6 +89,9 @@ A curated list of awesome things related to Vue 3
 - [What the Heck is Vite?](https://www.wrappixel.com/what-the-heck-is-vite/)
 - [Cool Features of Vue Router 4](https://vuejsdevelopers.com/topics/vue-router/)
 - [Watch with @vue/reactivity](https://antfu.me/posts/watch-with-reactivity/)
+- [Handling Asynchrony in Vue 3 / Composition API](https://medium.com/javascript-in-plain-english/handling-asynchrony-in-vue-3-composition-api-part-1-managing-async-state-e993842ebf8f)
+- [Handling Asynchrony with Vue Composition API and vue-concurrency](https://medium.com/javascript-in-plain-english/handling-asynchrony-with-vue-composition-api-and-vue-concurrency-part-2-canceling-throttling-4e0305c82367)
+- [Building a data layer with Vue and Composition API](https://medium.com/javascript-in-plain-english/building-a-data-layer-with-vue-and-composition-api-547cc9761b4c)
 
 ## Packages
 
@@ -101,6 +120,7 @@ A curated list of awesome things related to Vue 3
 - [vue-float-menu](https://github.com/prabhuignoto/vue-float-menu) - Customizable Floating Menu for Vue 3
 - [vue-toastification](https://github.com/Maronato/vue-toastification) - 🍞 Light, easy, and beautiful Toasts for Vue 2 and 3.
 - [vue3-scroll-picker](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
+- [vue-concurrency](https://github.com/MartinMalinda/vue-concurrency) - 🚦 A library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.
 - [vue-inline-svg](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. Works for Vue 2 and 3.
 
 ## Examples
@@ -150,6 +170,7 @@ A curated list of awesome things related to Vue 3
 - [Vue 3 Deep Dive with Evan You](https://www.vuemastery.com/courses/vue3-deep-dive-with-evan-you/vue3-overview/)
 - [Build a Gmail Clone with Vue 3](https://www.vuemastery.com/courses/build-a-gmail-clone-with-vue3/tour-the-project)
 - [Vue 3 Reactivity](https://www.vuemastery.com/courses/vue-3-reactivity/vue3-reactivity/)
-- [Vue.js The Composition API](https://vuejs-course.com/)
+- [Vue.js: The Composition API](https://vuejs-course.com/courses/vuejs-3-composition-api)
+- [The Complete Vue.js 3 Crash Course](https://vuejs-course.com/courses/vuejs-3-complete-crash-course)
 - [From Vue 2 to Vue 3](https://www.vuemastery.com/courses/from-vue2-to-vue3/from-vue-2-to-vue-3/)
 - [Become a Ninja with Vue - online training (EN and FR versions)](https://vue-exercises.ninja-squad.com)
