@@ -125,6 +125,7 @@ A curated list of awesome things related to Vue 3
 - [vue-inline-svg](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. Works for Vue 2 and 3.
 - [vue-3-sanitize](https://github.com/vannsl/vue-3-sanitize) - HTML sanitizer for Vue.js 3 apps
 - [headlessui-vue](https://github.com/tailwindlabs/headlessui/tree/develop/packages/%40headlessui-vue) - A set of completely unstyled, fully accessible UI components for Vue 3, designed to integrate beautifully with Tailwind CSS.
+- [vue3-tabs](https://github.com/HJ29/vue3-tabs) - A swipeable tabs component for vue 3.
 
 ## Examples
 
