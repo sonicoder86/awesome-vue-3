@@ -93,6 +93,7 @@ A curated list of awesome things related to Vue 3
 - [Handling Asynchrony with Vue Composition API and vue-concurrency](https://medium.com/javascript-in-plain-english/handling-asynchrony-with-vue-composition-api-and-vue-concurrency-part-2-canceling-throttling-4e0305c82367)
 - [Building a data layer with Vue and Composition API](https://medium.com/javascript-in-plain-english/building-a-data-layer-with-vue-and-composition-api-547cc9761b4c)
 - [Should You Use Composition API as a Replacement for Vuex?](https://vuejsdevelopers.com/2020/10/05/composition-api-vuex/)
+- [Nuxt Composition API](https://vueschool.io/articles/vuejs-tutorials/nuxt-composition-api/)
 
 ## Packages
 
