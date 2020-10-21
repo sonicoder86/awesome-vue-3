@@ -93,6 +93,7 @@ A curated list of awesome things related to Vue 3
 - [Handling Asynchrony with Vue Composition API and vue-concurrency](https://medium.com/javascript-in-plain-english/handling-asynchrony-with-vue-composition-api-and-vue-concurrency-part-2-canceling-throttling-4e0305c82367)
 - [Building a data layer with Vue and Composition API](https://medium.com/javascript-in-plain-english/building-a-data-layer-with-vue-and-composition-api-547cc9761b4c)
 - [Should You Use Composition API as a Replacement for Vuex?](https://vuejsdevelopers.com/2020/10/05/composition-api-vuex/)
+- [Nuxt Composition API](https://vueschool.io/articles/vuejs-tutorials/nuxt-composition-api/)
 
 ## Packages
 
@@ -124,9 +125,11 @@ A curated list of awesome things related to Vue 3
 - [vue-concurrency](https://github.com/MartinMalinda/vue-concurrency) - 🚦 A library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.
 - [vue-inline-svg](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. Works for Vue 2 and 3.
 - [vue-3-sanitize](https://github.com/vannsl/vue-3-sanitize) - HTML sanitizer for Vue.js 3 apps
+- [echarts-for-vue](https://github.com/ambit-tsai/echarts-for-vue) - 📊📈ECharts wrapper component for Vue 3 and 2
 - [headlessui-vue](https://github.com/tailwindlabs/headlessui/tree/develop/packages/%40headlessui-vue) - A set of completely unstyled, fully accessible UI components for Vue 3, designed to integrate beautifully with Tailwind CSS.
 - [vue3-spring](https://github.com/ismail9k/vue3-spring) - A spring-physics based animation library, in addition to more components, to cover most of the UI related animations.
 - [vue3-carousel](https://github.com/ismail9k/vue3-carousel) - Modern lightweight carousel component built for Vue 3.
+- [vue3-tabs](https://github.com/HJ29/vue3-tabs) - A swipeable tabs component for vue 3.
 - [particles.vue3](https://github.com/matteobruni/tsparticles/blob/master/components/vue3/README.md) - A lightweight library for easily create highly customizable particles animations for websites
 
 ## Examples
