@@ -127,6 +127,7 @@ A curated list of awesome things related to Vue 3
 - [headlessui-vue](https://github.com/tailwindlabs/headlessui/tree/develop/packages/%40headlessui-vue) - A set of completely unstyled, fully accessible UI components for Vue 3, designed to integrate beautifully with Tailwind CSS.
 - [vue3-spring](https://github.com/ismail9k/vue3-spring) - A spring-physics based animation library, in addition to more components, to cover most of the UI related animations.
 - [vue3-carousel](https://github.com/ismail9k/vue3-carousel) - Modern lightweight carousel component built for Vue 3.
+- [vue-final-modal](https://github.com/hunterliu1003/vue-final-modal) - A renderless, lightweight, feature-rich modal component for Vue 3.
 
 ## Examples
 
