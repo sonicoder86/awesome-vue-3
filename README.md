@@ -131,6 +131,7 @@ A curated list of awesome things related to Vue 3
 - [vue3-carousel](https://github.com/ismail9k/vue3-carousel) - Modern lightweight carousel component built for Vue 3.
 - [vue3-tabs](https://github.com/HJ29/vue3-tabs) - A swipeable tabs component for vue 3.
 - [particles.vue3](https://github.com/matteobruni/tsparticles/blob/master/components/vue3/README.md) - A lightweight library for easily create highly customizable particles animations for websites
+- [vue-final-modal](https://github.com/hunterliu1003/vue-final-modal) - A renderless, lightweight, feature-rich modal component for Vue 3.
 
 ## Examples
 
