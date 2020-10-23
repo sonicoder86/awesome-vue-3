@@ -134,8 +134,8 @@ A curated list of awesome things related to Vue 3
 - [vue-final-modal](https://github.com/hunterliu1003/vue-final-modal) - A renderless, lightweight, feature-rich modal component for Vue 3.
 - [vueper-slides](https://antoniandre.github.io/vueper-slides) - A touch ready and responsive slideshow / carousel for Vue and Vue 3.
 - [splitpanes](https://antoniandre.github.io/splitpanes) - A Vue and Vue 3 reliable, simple and touch-ready panes splitter / resizer.
-- [vue-cal](https://antoniandre.github.io/vue-cal) - A Vue and Vue 3 full calendar, no dependency, no BS. :metal:
-- [wave-ui](https://antoniandre.github.io/wave-ui) - An emerging UI framework for Vue.js & Vue 3 with only the bright side. :sunny:
+- [vue-cal](https://antoniandre.github.io/vue-cal) - A Vue and Vue 3 full calendar, no dependency, no BS. 🤘
+- [wave-ui](https://antoniandre.github.io/wave-ui) - An emerging UI framework for Vue.js & Vue 3 with only the bright side. ☀️
 
 ## Examples
 
