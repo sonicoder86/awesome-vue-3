@@ -106,7 +106,7 @@ A curated list of awesome things related to Vue 3
 - [vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator
 - [vue-use-web](https://github.com/logaretm/vue-use-web) - 🕸 Web APIs implemented as Vue.js composition functions
 - [vee-validate](https://github.com/logaretm/vee-validate/tree/next) - VeeValidate (v4) Vue 3 Template driven form validation
-- [vuelidate-next](https://github.com/vuelidate/vuelidate/tree/next) - Vuelidate (next) - Simple, lightweight model-based validation 
+- [vuelidate-next](https://github.com/vuelidate/vuelidate/tree/next) - Vuelidate (next) - Simple, lightweight model-based validation
 - [vue-compose-promise](https://github.com/posva/vue-compose-promise) - 💝 Promises using vue composition API
 - [vue-composition-toolkit](https://github.com/shuidi-fed/vue-composition-toolkit) - 💚 Vue3 Composition-API toolkit
 - [vue-composable](https://github.com/pikax/vue-composable) - Vue composition-api composable components
@@ -132,6 +132,10 @@ A curated list of awesome things related to Vue 3
 - [vue3-tabs](https://github.com/HJ29/vue3-tabs) - A swipeable tabs component for vue 3.
 - [particles.vue3](https://github.com/matteobruni/tsparticles/blob/master/components/vue3/README.md) - A lightweight library for easily create highly customizable particles animations for websites
 - [vue-final-modal](https://github.com/hunterliu1003/vue-final-modal) - A renderless, lightweight, feature-rich modal component for Vue 3.
+- [vueper-slides](https://antoniandre.github.io/vueper-slides) - A touch ready and responsive slideshow / carousel for Vue and Vue 3.
+- [splitpanes](https://antoniandre.github.io/splitpanes) - A Vue and Vue 3 reliable, simple and touch-ready panes splitter / resizer.
+- [vue-cal](https://antoniandre.github.io/vue-cal) - A Vue and Vue 3 full calendar, no dependency, no BS. :metal:
+- [wave-ui](https://antoniandre.github.io/wave-ui) - An emerging UI framework for Vue.js & Vue 3 with only the bright side. :sunny:
 
 ## Examples
 
