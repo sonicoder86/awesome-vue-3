@@ -136,6 +136,7 @@ A curated list of awesome things related to Vue 3
 - [splitpanes](https://antoniandre.github.io/splitpanes) - A Vue and Vue 3 reliable, simple and touch-ready panes splitter / resizer.
 - [vue-cal](https://antoniandre.github.io/vue-cal) - A Vue and Vue 3 full calendar, no dependency, no BS. 🤘
 - [wave-ui](https://antoniandre.github.io/wave-ui) - An emerging UI framework for Vue.js & Vue 3 with only the bright side. ☀️
+- [vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue 3
 
 ## Examples
 
