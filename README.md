@@ -138,6 +138,7 @@ A curated list of awesome things related to Vue 3
 - [wave-ui](https://antoniandre.github.io/wave-ui) - An emerging UI framework for Vue.js & Vue 3 with only the bright side. ☀️
 - [vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue 3
 - [vue-hooks-form](https://github.com/beizhedenglong/vue-hooks-form) - Building forms with Vue composition API 
+- [vue-visibility](https://github.com/lewandy/vue-visibility) - Vue plugin that hides or shows elements depending of a criteria. 👀
 
 ## Examples
 
