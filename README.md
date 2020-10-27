@@ -139,6 +139,7 @@ A curated list of awesome things related to Vue 3
 - [vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue 3
 - [vue-hooks-form](https://github.com/beizhedenglong/vue-hooks-form) - Building forms with Vue composition API 
 - [vue-visibility](https://github.com/lewandy/vue-visibility) - Vue plugin that hides or shows elements depending of a criteria. 👀
+- [vue-responsive-video-background-player](https://github.com/avidofood/vue-responsive-video-background-player) - Play your own videos in background responsively in different resolutions.
 
 ## Examples
 
