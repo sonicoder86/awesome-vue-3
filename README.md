@@ -140,6 +140,7 @@ A curated list of awesome things related to Vue 3
 - [vue-hooks-form](https://github.com/beizhedenglong/vue-hooks-form) - Building forms with Vue composition API 
 - [vue-visibility](https://github.com/lewandy/vue-visibility) - Vue plugin that hides or shows elements depending of a criteria. 👀
 - [vue-responsive-video-background-player](https://github.com/avidofood/vue-responsive-video-background-player) - Play your own videos in background responsively in different resolutions.
+- [harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
 
 ## Examples
 
