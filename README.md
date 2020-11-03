@@ -141,6 +141,7 @@ A curated list of awesome things related to Vue 3
 - [vue-visibility](https://github.com/lewandy/vue-visibility) - Vue plugin that hides or shows elements depending of a criteria. 👀
 - [vue-responsive-video-background-player](https://github.com/avidofood/vue-responsive-video-background-player) - Play your own videos in background responsively in different resolutions.
 - [harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
+- [vue3-ui](https://github.com/pathscale/vue3-ui) - Very clean Vue 3 components styled with love and care to integrate nicely with Bulma CSS.
 
 ## Examples
 
