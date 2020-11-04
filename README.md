@@ -158,6 +158,7 @@ A curated list of awesome things related to Vue 3
 - [vue-3-reactivity](https://github.com/Code-Pop/vue-3-reactivity) - Code from the Vue 3 Reactivity course
 - [vue-cart with import-maps](https://github.com/aelbore/vue-cart/tree/vue3-composition-api) - Basic Shopping Cart with Vue ES Module and Composition API (without bundler or build step)
 - [vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) - [Realworld](https://github.com/gothinkster/realworld) implementation using Vue 3 + TypeScript + Composition Api
+- [vue3-md-blog](https://github.com/yeikiu/vue3-md-blog) - ✍️ Minimal config Vue3 + Markdown blog engine
 
 ## Tools
 
