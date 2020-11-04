@@ -142,6 +142,7 @@ A curated list of awesome things related to Vue 3
 - [vue-responsive-video-background-player](https://github.com/avidofood/vue-responsive-video-background-player) - Play your own videos in background responsively in different resolutions.
 - [harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
 - [vue3-ui](https://github.com/pathscale/vue3-ui) - Very clean Vue 3 components styled with love and care to integrate nicely with Bulma CSS.
+- [vue3-qr-reader](https://github.com/HJ29/vue3-qr-reader) - A Vue 3 QR reader component. Refactor vue-qrcode-reader for vue 3 compatibility.
 
 ## Examples
 
