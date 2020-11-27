@@ -95,6 +95,7 @@ A curated list of awesome things related to Vue 3
 - [Should You Use Composition API as a Replacement for Vuex?](https://vuejsdevelopers.com/2020/10/05/composition-api-vuex/)
 - [Nuxt Composition API](https://vueschool.io/articles/vuejs-tutorials/nuxt-composition-api/)
 - [Creating Custom Hooks with Vue 3 & Typescript](https://codesource.io/creating-custom-hooks-with-vue-3-typescript/)
+- [Should You Use Composition API as a Replacement for Vuex?](https://vuejsdevelopers.com/2020/10/05/composition-api-vuex/)
 
 ## Packages
 
