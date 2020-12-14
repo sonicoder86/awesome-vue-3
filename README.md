@@ -165,6 +165,7 @@ A curated list of awesome things related to Vue 3
 ## Tools
 
 - [aria-vue](https://github.com/aelbore/aria-vue) - Headless testing with Vite + Vue + Vue-Testting-Utils
+- [vue3-sfc-loader](https://github.com/FranckFreiburger/vue3-sfc-loader) - Load .vue files directly from your html/js. No node.js environment, no (webpack) build step.
 
 ## Videos
 
