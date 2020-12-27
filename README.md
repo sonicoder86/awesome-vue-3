@@ -145,6 +145,7 @@ A curated list of awesome things related to Vue 3
 - [vue3-ui](https://github.com/pathscale/vue3-ui) - Very clean Vue 3 components styled with love and care to integrate nicely with Bulma CSS.
 - [vue3-qr-reader](https://github.com/HJ29/vue3-qr-reader) - A Vue 3 QR reader component. Refactor vue-qrcode-reader for vue 3 compatibility.
 - [Equal UI](https://github.com/quatrochan/Equal) - Vue 3 components library with 30+ components based on TypeScript and Equal design system.
+- [vue-advanced-cropper](https://github.com/Norserium/vue-advanced-cropper/tree/vue-next) - The advanced vue cropper library that gives you opportunity to create your own croppers suited for any website design.
 
 ## Examples
 
