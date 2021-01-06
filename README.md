@@ -103,7 +103,7 @@ A curated list of awesome things related to Vue 3
 - [vue-router-next](https://github.com/vuejs/vue-router-next) - The Vue 3 official router (WIP)
 - [vue-test-utils-next](https://github.com/vuejs/vue-test-utils-next) - The next iteration of Vue Test Utils, targeting Vue 3
 - [composition-api](https://github.com/vuejs/composition-api) - Vue2 plugin for the Composition API.
-- [vite](https://github.com/vitejs/vite) - Native-ESM powered web dev build tool. It's fast.
+- [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast.
 - [vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator
 - [vue-use-web](https://github.com/logaretm/vue-use-web) - 🕸 Web APIs implemented as Vue.js composition functions
 - [vee-validate](https://github.com/logaretm/vee-validate/tree/next) - VeeValidate (v4) Vue 3 Template driven form validation
@@ -162,6 +162,7 @@ A curated list of awesome things related to Vue 3
 - [vue-cart with import-maps](https://github.com/aelbore/vue-cart/tree/vue3-composition-api) - Basic Shopping Cart with Vue ES Module and Composition API (without bundler or build step)
 - [vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) - [Realworld](https://github.com/gothinkster/realworld) implementation using Vue 3 + TypeScript + Composition Api
 - [vue3-md-blog](https://github.com/yeikiu/vue3-md-blog) - ✍️ Minimal config Vue3 + Markdown blog engine
+- [vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Starter Template based on Vite (Vue 3, Vue Router and Tailwind CSS)
 
 ## Tools
 
