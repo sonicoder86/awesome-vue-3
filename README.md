@@ -9,21 +9,18 @@
 
 A curated list of awesome things related to Vue 3
 
-
 - [Resources](#resources)
-    - [Official](#official)
-    - [Related awesome lists](#related-awesome-lists)
-    - [Articles](#articles)
-    - [Packages](#packages)
-    - [Examples](#examples)
-    - [Tools](#tools)
-    - [Videos](#videos)
-    - [Books](#books)
-    - [Courses](#courses)
-
+  - [Official](#official)
+  - [Related awesome lists](#related-awesome-lists)
+  - [Articles](#articles)
+  - [Packages](#packages)
+  - [Examples](#examples)
+  - [Tools](#tools)
+  - [Videos](#videos)
+  - [Books](#books)
+  - [Courses](#courses)
 
 # Resources
-
 
 ## Official
 
@@ -32,6 +29,7 @@ A curated list of awesome things related to Vue 3
 - [RFCs for substantial changes / feature additions to Vue core](https://github.com/vuejs/rfcs)
 
 ## Related awesome lists
+
 - [Vite](https://github.com/vitejs/awesome-vite)
 - [General](https://github.com/vuejs/awesome-vue)
 
@@ -138,7 +136,7 @@ A curated list of awesome things related to Vue 3
 - [vue-cal](https://antoniandre.github.io/vue-cal) - A Vue and Vue 3 full calendar, no dependency, no BS. 🤘
 - [wave-ui](https://antoniandre.github.io/wave-ui) - An emerging UI framework for Vue.js & Vue 3 with only the bright side. ☀️
 - [vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue 3
-- [vue-hooks-form](https://github.com/beizhedenglong/vue-hooks-form) - Building forms with Vue composition API 
+- [vue-hooks-form](https://github.com/beizhedenglong/vue-hooks-form) - Building forms with Vue composition API
 - [vue-visibility](https://github.com/lewandy/vue-visibility) - Vue plugin that hides or shows elements depending of a criteria. 👀
 - [vue-responsive-video-background-player](https://github.com/avidofood/vue-responsive-video-background-player) - Play your own videos in background responsively in different resolutions.
 - [harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
@@ -146,6 +144,7 @@ A curated list of awesome things related to Vue 3
 - [vue3-qr-reader](https://github.com/HJ29/vue3-qr-reader) - A Vue 3 QR reader component. Refactor vue-qrcode-reader for vue 3 compatibility.
 - [Equal UI](https://github.com/quatrochan/Equal) - Vue 3 components library with 30+ components based on TypeScript and Equal design system.
 - [vue-advanced-cropper](https://github.com/Norserium/vue-advanced-cropper/tree/vue-next) - The advanced vue cropper library that gives you opportunity to create your own croppers suited for any website design.
+- [vue-color-kit](https://github.com/anish2690/vue-color-kit) -🎨 A Vue 3 color picker component. lightweight, modern, and no dependence.
 
 ## Examples
 
