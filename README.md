@@ -163,6 +163,7 @@ A curated list of awesome things related to Vue 3
 - [vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) - [Realworld](https://github.com/gothinkster/realworld) implementation using Vue 3 + TypeScript + Composition Api
 - [vue3-md-blog](https://github.com/yeikiu/vue3-md-blog) - ✍️ Minimal config Vue3 + Markdown blog engine
 - [vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Starter Template based on Vite (Vue 3, Vue Router and Tailwind CSS)
+- [vite-wind](https://github.com/boussadjra/vite-wind) -  Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.
 
 ## Tools
 
