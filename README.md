@@ -186,6 +186,7 @@ A curated list of awesome things related to Vue 3
 - [The State of Vue.js in 2020 - Why You Should Make The Leap - Gwendolyn Faraday](https://www.youtube.com/watch?v=eiUgVa2Td_k)
 - [Full-Stack TypeScript with Vue.js 3, Node.js and PostgreSQL](https://www.youtube.com/watch?v=rLAElFkRrWI&list=PLhXZp00uXBk5hnHEIAFl74mZyLrVKKJAD)
 - [Vue 3: The Future of Front End](https://www.youtube.com/watch?v=dNBLq6aLpCA)
+- [Vue 3 Tutorial Playlist by Coding With Justin](https://www.youtube.com/playlist?list=PLnKfPkeIekbb7X0TqmNNdX-CKOJaYNTpu)
 
 ## Books
 
