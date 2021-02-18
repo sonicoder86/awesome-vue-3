@@ -10,16 +10,17 @@
 A curated list of awesome things related to Vue 3
 
 
+- [Awesome Vue 3 ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-vue-3-)
 - [Resources](#resources)
-    - [Official](#official)
-    - [Related awesome lists](#related-awesome-lists)
-    - [Articles](#articles)
-    - [Packages](#packages)
-    - [Examples](#examples)
-    - [Tools](#tools)
-    - [Videos](#videos)
-    - [Books](#books)
-    - [Courses](#courses)
+  - [Official](#official)
+  - [Related awesome lists](#related-awesome-lists)
+  - [Articles](#articles)
+  - [Packages](#packages)
+  - [Examples](#examples)
+  - [Tools](#tools)
+  - [Videos](#videos)
+  - [Books](#books)
+  - [Courses](#courses)
 
 
 # Resources
@@ -117,6 +118,7 @@ A curated list of awesome things related to Vue 3
 - [vue-composable](https://github.com/pikax/vue-composable) - Vue composition-api composable components
 - [vueuse](https://github.com/antfu/vueuse) - 🧰 Collection of essential Vue Composition API utils works for Vue 2 and 3
 - [vue-use-kit](https://github.com/microcipcip/vue-use-kit) - 🛠️ Useful collection of Vue composition API functions
+- [vue-use-utilities](https://github.com/vueblocks/vue-use-utilities) - 🔧 A collection of Vue Composition API utilities
 - [vue-condition-watcher](https://github.com/runkids/vue-condition-watcher) - 🕶 Vue Composition API for automatic fetch data when condition has been changed
 - [vue-router-compositions](https://github.com/greenpress/vue-router-compositions) - VueRouter Composition-API utils library
 - [vue-use-switch-map](https://github.com/jfet97/vue-use-switch-map) - 👽 The power of the RxJS switchMap operator injected into the Vue composition world
