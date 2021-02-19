@@ -100,6 +100,7 @@ A curated list of awesome things related to Vue 3
 - [Write Vue like you write React](https://dev.to/blacksonic/write-vue-like-you-write-react-23p9)
 - [Announcing Vite 2.0](https://dev.to/yyx990803/announcing-vite-2-0-2f0a)
 - [Vue Composition API vs. React Hooks](https://blog.logrocket.com/vue-composition-api-vs-react-hooks/)
+- [Building Vue 3 Reactivity from Scratch](https://lachlan-miller.me/articles/vue-3-reactivity-from-scratch)
 
 ## Packages
 
