@@ -200,6 +200,8 @@ A curated list of awesome things related to Vue 3
 
 - [Become a Ninja with Vue (EN and FR versions)](https://books.ninja-squad.com/vue)
 - [Vue.js 3 Cookbook](https://www.packtpub.com/product/vue-js-3-cookbook/9781838826222)
+- [Large Scale Apps with Vue 3 and TypeScript](https://www.vuetypescript.com/)
+- [Vue The Road To Enterprise](https://theroadtoenterprise.com/)
 
 ## Courses
 
