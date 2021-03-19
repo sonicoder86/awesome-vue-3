@@ -126,6 +126,7 @@ A curated list of awesome things related to Vue 3
 - [vue-use-infinite-scroll](https://github.com/jfet97/vue-use-infinite-scroll) - ♾️ A Vue composition function that makes infinite scroll a breeze
 - [vuehooks](https://github.com/jsbroks/vuehooks) - 🌟 Collection of utility composition functions for Vue
 - [vue-cookie-next](https://github.com/anish2690/vue-cookie-next) - 🍪 A vue 3 plugin for handling browser cookies with typescript support.
+- [vueup-quill](https://github.com/vueup/vueup-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor. See a [Live Demo](https://vueup.github.io/vueup-quill/#demo).
 - [vue-draggable-next](https://github.com/anish2690/vue-draggable-next) - 🧱 A Vue 3 drag-and-drop component based on Sortable.js.
 - [vue-float-menu](https://github.com/prabhuignoto/vue-float-menu) - Customizable Floating Menu for Vue 3
 - [vue-toastification](https://github.com/Maronato/vue-toastification) - 🍞 Light, easy, and beautiful Toasts for Vue 2 and 3.
