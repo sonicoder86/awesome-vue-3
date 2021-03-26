@@ -156,6 +156,7 @@ A curated list of awesome things related to Vue 3
 - [vue-advanced-cropper](https://github.com/Norserium/vue-advanced-cropper/tree/vue-next) - The advanced vue cropper library that gives you opportunity to create your own croppers suited for any website design.
 - [vue-visual-filter](https://github.com/obadakhalili/vue-visual-filter) - An unopinionated visual filtering component for Vue 3.
 - [vue-simple-acl](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
+- [reforms.js](https://reforms.js.org) - Vue 3 and Bootstrap 5 forms and cards generator.
 
 ## Examples
 
