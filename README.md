@@ -139,6 +139,7 @@ A curated list of awesome things related to Vue 3
 - [vue3-spring](https://github.com/ismail9k/vue3-spring) - A spring-physics based animation library, in addition to more components, to cover most of the UI related animations.
 - [vue3-carousel](https://github.com/ismail9k/vue3-carousel) - Modern lightweight carousel component built for Vue 3.
 - [vue3-tabs](https://github.com/HJ29/vue3-tabs) - A swipeable tabs component for vue 3.
+- [vue3-blocks-tree](https://github.com/megafetis/vue3-blocks-tree) - A simple organization structure tree view based on Vue3.x. It supports events, slots, horizontal vision and nodes manipulation.
 - [particles.vue3](https://github.com/matteobruni/tsparticles/blob/master/components/vue3/README.md) - A lightweight library for easily create highly customizable particles animations for websites
 - [vue-final-modal](https://github.com/hunterliu1003/vue-final-modal) - A renderless, lightweight, feature-rich modal component for Vue 3.
 - [vueper-slides](https://antoniandre.github.io/vueper-slides) - A touch ready and responsive slideshow / carousel for Vue and Vue 3.
