@@ -158,6 +158,7 @@ A curated list of awesome things related to Vue 3
 - [vue-visual-filter](https://github.com/obadakhalili/vue-visual-filter) - An unopinionated visual filtering component for Vue 3.
 - [vue-simple-acl](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
 - [reforms.js](https://reforms.js.org) - Vue 3 and Bootstrap 5 forms and cards generator.
+- [vue3-touch-events](https://github.com/robinrodricks/vue3-touch-events) - Enable tap / swipe / touch / hold / mouse down / mouse up events for HTML DOM elements
 
 ## Examples
 
