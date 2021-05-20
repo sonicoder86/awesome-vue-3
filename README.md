@@ -115,7 +115,7 @@ A curated list of awesome things related to Vue 3
 - [vee-validate](https://github.com/logaretm/vee-validate/tree/next) - VeeValidate (v4) Vue 3 Template driven form validation
 - [vuelidate-next](https://github.com/vuelidate/vuelidate/tree/next) - Vuelidate (next) - Simple, lightweight model-based validation
 - [vue-compose-promise](https://github.com/posva/vue-compose-promise) - 💝 Promises using vue composition API
-- [vue-composition-toolkit](https://github.com/shuidi-fed/vue-composition-toolkit) - 💚 Vue3 Composition-API toolkit
+- [vue-composition-toolkit](https://github.com/soouup/vue-composition-toolkit) - 💚 Vue3 Composition-API toolkit
 - [vue-composable](https://github.com/pikax/vue-composable) - Vue composition-api composable components
 - [vueuse](https://github.com/antfu/vueuse) - 🧰 Collection of essential Vue Composition API utils works for Vue 2 and 3
 - [vue-use-kit](https://github.com/microcipcip/vue-use-kit) - 🛠️ Useful collection of Vue composition API functions
