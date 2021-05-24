@@ -160,7 +160,7 @@ A curated list of awesome things related to Vue 3
 - [reforms.js](https://reforms.js.org) - Vue 3 and Bootstrap 5 forms and cards generator.
 - [vue3-touch-events](https://github.com/robinrodricks/vue3-touch-events) - Enable tap / swipe / touch / hold / mouse down / mouse up events for HTML DOM elements
 - [element-plus](https://element-plus.org/) - Vue 3.0 component library with over 50 components, for developers, designers and product managers
-
+- [fast-crud](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning
 ## Examples
 
 - [vue-3-playground](https://github.com/blacksonic/vue-3-playground) - Vue 3 Playground packed with all the new features
