@@ -160,6 +160,7 @@ A curated list of awesome things related to Vue 3
 - [reforms.js](https://reforms.js.org) - Vue 3 and Bootstrap 5 forms and cards generator.
 - [vue3-touch-events](https://github.com/robinrodricks/vue3-touch-events) - Enable tap / swipe / touch / hold / mouse down / mouse up events for HTML DOM elements
 - [element-plus](https://element-plus.org/) - Vue 3.0 component library with over 50 components, for developers, designers and product managers
+- [smart-table](https://vue-smart-table.netlify.app/) - Simple and feature packed table components. Sorting, filtering, selection and pagination out of the box.
 
 ## Examples
 
