@@ -101,6 +101,10 @@ A curated list of awesome things related to Vue 3
 - [Announcing Vite 2.0](https://dev.to/yyx990803/announcing-vite-2-0-2f0a)
 - [Vue Composition API vs. React Hooks](https://blog.logrocket.com/vue-composition-api-vs-react-hooks/)
 - [Building Vue 3 Reactivity from Scratch](https://lachlan-miller.me/articles/vue-3-reactivity-from-scratch)
+- [Vue with TSX - the perfect duo!?](https://areknawo.com/vue-with-tsx-the-perfect-duo/)
+- [Pinia, an Alternative Vue.js Store](https://vueschool.io/articles/vuejs-tutorials/pinia-an-alternative-vue-js-store/)
+- [State Management in Vue 3 Applications](https://auth0.com/blog/state-management-in-vue-3-applications/)
+- [What's new in Vue 3.1?](https://blog.ninja-squad.com/2021/06/07/what-is-new-vue-3.1/)
 
 ## Packages
 
@@ -203,6 +207,7 @@ A curated list of awesome things related to Vue 3
 - [Vue 3: The Future of Front End](https://www.youtube.com/watch?v=dNBLq6aLpCA)
 - [Vue 3 Tutorial Playlist by Coding With Justin](https://www.youtube.com/playlist?list=PLnKfPkeIekbb7X0TqmNNdX-CKOJaYNTpu)
 - [Understanding Vue 3 Internals: @vue/reactivity](https://www.youtube.com/watch?v=HzhcXVFEiVY)
+- [Vue.js 3 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1)
 
 ## Books
 
@@ -227,3 +232,4 @@ A curated list of awesome things related to Vue 3
 - [From Vue 2 to Vue 3](https://www.vuemastery.com/courses/from-vue2-to-vue3/from-vue-2-to-vue-3/)
 - [Become a Ninja with Vue - online training (EN and FR versions)](https://vue-exercises.ninja-squad.com)
 - [Introduction to Vue 3](https://frontendmasters.com/courses/vue-3/)
+- [Build Web Apps with Vue JS 3 & Firebase](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/)
