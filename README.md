@@ -165,6 +165,7 @@ A curated list of awesome things related to Vue 3
 - [vue3-touch-events](https://github.com/robinrodricks/vue3-touch-events) - Enable tap / swipe / touch / hold / mouse down / mouse up events for HTML DOM elements
 - [element-plus](https://element-plus.org/) - Vue 3.0 component library with over 50 components, for developers, designers and product managers
 - [fast-crud](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning
+- [vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) - vue3-openlayers is components library that brings the powerful OpenLayers API to the Vue3 reactive world. It can display maps with tiled, raster or vector layers loaded from different sources. [Live Demo](https://vue3openlayers.netlify.app/demo/)
 ## Examples
 
 - [vue-3-playground](https://github.com/blacksonic/vue-3-playground) - Vue 3 Playground packed with all the new features
