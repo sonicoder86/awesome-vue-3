@@ -166,7 +166,7 @@ A curated list of awesome things related to Vue 3
 - [element-plus](https://element-plus.org/) - Vue 3.0 component library with over 50 components, for developers, designers and product managers
 - [fast-crud](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning
 - [vue-timer-hook](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
-- 
+
 ## Examples
 
 - [vue-3-playground](https://github.com/blacksonic/vue-3-playground) - Vue 3 Playground packed with all the new features
@@ -185,6 +185,7 @@ A curated list of awesome things related to Vue 3
 - [vue3-md-blog](https://github.com/yeikiu/vue3-md-blog) - ✍️ Minimal config Vue3 + Markdown blog engine
 - [vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Starter Template based on Vite (Vue 3, Vue Router and Tailwind CSS)
 - [vite-wind](https://github.com/boussadjra/vite-wind) -  Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.
+- [vue-timer-hook](https://riderx.github.io/vue-timer-hook/) - Demo Vue 3 Timer module inspired by react-timer-hook
 
 ## Tools
 
