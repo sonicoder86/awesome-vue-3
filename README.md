@@ -151,7 +151,7 @@ A curated list of awesome things related to Vue 3
 - [vue-cal](https://antoniandre.github.io/vue-cal) - A Vue and Vue 3 full calendar, no dependency, no BS. 🤘
 - [wave-ui](https://antoniandre.github.io/wave-ui) - An emerging UI framework for Vue.js & Vue 3 with only the bright side. ☀️
 - [vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue 3
-- [vue-hooks-form](https://github.com/beizhedenglong/vue-hooks-form) - Building forms with Vue composition API 
+- [vue-hooks-form](https://github.com/beizhedenglong/vue-hooks-form) - Building forms with Vue composition API
 - [vue-visibility](https://github.com/lewandy/vue-visibility) - Vue plugin that hides or shows elements depending of a criteria. 👀
 - [vue-responsive-video-background-player](https://github.com/avidofood/vue-responsive-video-background-player) - Play your own videos in background responsively in different resolutions.
 - [harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
@@ -165,6 +165,7 @@ A curated list of awesome things related to Vue 3
 - [vue3-touch-events](https://github.com/robinrodricks/vue3-touch-events) - Enable tap / swipe / touch / hold / mouse down / mouse up events for HTML DOM elements
 - [element-plus](https://element-plus.org/) - Vue 3.0 component library with over 50 components, for developers, designers and product managers
 - [fast-crud](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning
+- [v-calendar](https://vcalendar.io/) - An elegant calendar and datepicker plugin for Vuejs
 - [vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) - vue3-openlayers is components library that brings the powerful OpenLayers API to the Vue3 reactive world. It can display maps with tiled, raster or vector layers loaded from different sources. [Live Demo](https://vue3openlayers.netlify.app/demo/)
 ## Examples
 
@@ -184,6 +185,7 @@ A curated list of awesome things related to Vue 3
 - [vue3-md-blog](https://github.com/yeikiu/vue3-md-blog) - ✍️ Minimal config Vue3 + Markdown blog engine
 - [vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Starter Template based on Vite (Vue 3, Vue Router and Tailwind CSS)
 - [vite-wind](https://github.com/boussadjra/vite-wind) -  Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.
+- [Materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. 
 
 ## Tools
 
