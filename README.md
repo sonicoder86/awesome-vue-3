@@ -9,7 +9,6 @@
 
 A curated list of awesome things related to Vue 3
 
-
 - [Awesome Vue 3 ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-vue-3-)
 - [Resources](#resources)
   - [Official](#official)
@@ -22,9 +21,7 @@ A curated list of awesome things related to Vue 3
   - [Books](#books)
   - [Courses](#courses)
 
-
 # Resources
-
 
 ## Official
 
@@ -33,6 +30,7 @@ A curated list of awesome things related to Vue 3
 - [RFCs for substantial changes / feature additions to Vue core](https://github.com/vuejs/rfcs)
 
 ## Related awesome lists
+
 - [Vite](https://github.com/vitejs/awesome-vite)
 - [General](https://github.com/vuejs/awesome-vue)
 
@@ -103,8 +101,8 @@ A curated list of awesome things related to Vue 3
 - [Building Vue 3 Reactivity from Scratch](https://lachlan-miller.me/articles/vue-3-reactivity-from-scratch)
 - [Vue with TSX - the perfect duo!?](https://areknawo.com/vue-with-tsx-the-perfect-duo/)
 - [Pinia, an Alternative Vue.js Store](https://vueschool.io/articles/vuejs-tutorials/pinia-an-alternative-vue-js-store/)
-- [State Management in Vue 3 Applications](https://auth0.com/blog/state-management-in-vue-3-applications/)
-- [What's new in Vue 3.1?](https://blog.ninja-squad.com/2021/06/07/what-is-new-vue-3.1/)
+- [Template to create vue 3, vuex 4 with modules, typescript project](https://dev.to/shubhadip/vue-3-vuex-4-modules-typescript-2i2o)
+- [Adding server side rendering to existing vue 3 projects](https://dev.to/shubhadip/adding-server-side-rendering-to-existing-vue-3-project-53oo)
 
 ## Packages
 
@@ -166,6 +164,7 @@ A curated list of awesome things related to Vue 3
 - [element-plus](https://element-plus.org/) - Vue 3.0 component library with over 50 components, for developers, designers and product managers
 - [fast-crud](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning
 - [v-calendar](https://vcalendar.io/) - An elegant calendar and datepicker plugin for Vuejs
+
 ## Examples
 
 - [vue-3-playground](https://github.com/blacksonic/vue-3-playground) - Vue 3 Playground packed with all the new features
@@ -183,8 +182,8 @@ A curated list of awesome things related to Vue 3
 - [vue3-ssr-realworld-example-app](https://github.com/levchak0910/vue3-ssr-realworld-example-app) - [Realworld](https://github.com/gothinkster/realworld) app implementation using Vue 3 with SSR
 - [vue3-md-blog](https://github.com/yeikiu/vue3-md-blog) - ✍️ Minimal config Vue3 + Markdown blog engine
 - [vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Starter Template based on Vite (Vue 3, Vue Router and Tailwind CSS)
-- [vite-wind](https://github.com/boussadjra/vite-wind) -  Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.
-- [Materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. 
+- [vite-wind](https://github.com/boussadjra/vite-wind) - Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.
+- [Materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template.
 
 ## Tools
 
