@@ -101,6 +101,8 @@ A curated list of awesome things related to Vue 3
 - [Building Vue 3 Reactivity from Scratch](https://lachlan-miller.me/articles/vue-3-reactivity-from-scratch)
 - [Vue with TSX - the perfect duo!?](https://areknawo.com/vue-with-tsx-the-perfect-duo/)
 - [Pinia, an Alternative Vue.js Store](https://vueschool.io/articles/vuejs-tutorials/pinia-an-alternative-vue-js-store/)
+- [State Management in Vue 3 Applications](https://auth0.com/blog/state-management-in-vue-3-applications/)
+- [What's new in Vue 3.1?](https://blog.ninja-squad.com/2021/06/07/what-is-new-vue-3.1/)
 - [Template to create vue 3, vuex 4 with modules, typescript project](https://dev.to/shubhadip/vue-3-vuex-4-modules-typescript-2i2o)
 - [Adding server side rendering to existing vue 3 projects](https://dev.to/shubhadip/adding-server-side-rendering-to-existing-vue-3-project-53oo)
 
