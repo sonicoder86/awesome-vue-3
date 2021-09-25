@@ -166,6 +166,8 @@ A curated list of awesome things related to Vue 3
 - [element-plus](https://element-plus.org/) - Vue 3.0 component library with over 50 components, for developers, designers and product managers
 - [fast-crud](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning
 - [v-calendar](https://vcalendar.io/) - An elegant calendar and datepicker plugin for Vuejs
+- [vue3-pdfmake](https://github.com/Novout/vue-pdfmake) - A PDFMake Plugin for Vue 3.x
+
 ## Examples
 
 - [vue-3-playground](https://github.com/blacksonic/vue-3-playground) - Vue 3 Playground packed with all the new features
