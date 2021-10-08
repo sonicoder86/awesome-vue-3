@@ -128,6 +128,7 @@ A curated list of awesome things related to Vue 3
 - [vue-router-compositions](https://github.com/greenpress/vue-router-compositions) - VueRouter Composition-API utils library
 - [vue-use-switch-map](https://github.com/jfet97/vue-use-switch-map) - 👽 The power of the RxJS switchMap operator injected into the Vue composition world
 - [vue-use-infinite-scroll](https://github.com/jfet97/vue-use-infinite-scroll) - ♾️ A Vue composition function that makes infinite scroll a breeze
+- [vue-eternal-loading](https://github.com/ts-pro/vue-eternal-loading) - 💚 Vue 3 infinity loading component for js, ts, browser, etc...
 - [vuehooks](https://github.com/jsbroks/vuehooks) - 🌟 Collection of utility composition functions for Vue
 - [vue-cookie-next](https://github.com/anish2690/vue-cookie-next) - 🍪 A vue 3 plugin for handling browser cookies with typescript support.
 - [vue-quill](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor. See a [Live Demo](https://vueup.github.io/vue-quill/#demo).
