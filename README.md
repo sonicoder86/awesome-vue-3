@@ -166,6 +166,12 @@ A curated list of awesome things related to Vue 3
 - [element-plus](https://element-plus.org/) - Vue 3.0 component library with over 50 components, for developers, designers and product managers
 - [fast-crud](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning
 - [v-calendar](https://vcalendar.io/) - An elegant calendar and datepicker plugin for Vuejs
+- [@vueform/multiselect](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options (+Tailwind support). [Online Demo](https://github.com/vueform/multiselect)
+- [@vueform/slider](https://github.com/vueform/slider) - Vue 3 slider component with multihandles, tooltips merging and formatting (+Tailwind support). [Online Demo](https://github.com/vueform/slider)
+- [@vueform/toggle](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options (+Tailwind support). [Online Demo](https://github.com/vueform/toggle)
+- [Vueform](https://vueform.com) - Advanced form builder for Vue.js with multi-file upload, conditions, form steps and Tailwind support. [Online Demo](https://vueform.com/examples/basics/simple-form)
+
+
 ## Examples
 
 - [vue-3-playground](https://github.com/blacksonic/vue-3-playground) - Vue 3 Playground packed with all the new features
