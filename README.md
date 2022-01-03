@@ -108,6 +108,7 @@ A curated list of awesome things related to Vue 3
 
 ## Packages
 
+- [AgnosticUI](https://www.agnosticui.com/ ) - Accessible Vue 3 Component Primitives (that also works with React, Svelte, and Angular)
 - [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0
 - [vue-cli-plugin-vue-next](https://github.com/vuejs/vue-cli-plugin-vue-next) - A Vue CLI plugin for trying out vue-next (experimental)
 - [vue-router-next](https://github.com/vuejs/vue-router-next) - The Vue 3 official router (WIP)
