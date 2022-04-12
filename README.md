@@ -170,6 +170,7 @@ A curated list of awesome things related to Vue 3
 - [vue-highlight](https://github.com/point-hub/vue-highlight) - Vue 3 directive for highlight.js.
 - [superBVue](https://github.com/superbvue/SuperBVue) - A Vue 3 UI Components for Web is based on boostrap 5.
 - [vue-color-kit](https://github.com/anish2690/vue-color-kit) -🎨 A Vue 3 color picker component. lightweight, modern, and no dependence.
+- [vue-contentful-rich-text](https://github.com/Anivive/vue-contentful-rich-text) - 🦉 Vue 3 package for outputting a Contentful Rich Text Field
 
 ## Examples
 
