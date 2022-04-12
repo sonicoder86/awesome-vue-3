@@ -173,6 +173,7 @@ A curated list of awesome things related to Vue 3
 - [vue-contentful-rich-text](https://github.com/Anivive/vue-contentful-rich-text) - 🦉 Vue 3 package for outputting a Contentful Rich Text Field
 - [vue3-fullscreen](https://github.com/mirari/vue3-fullscreen) - A simple Vue 3 component for fullscreen.
 - [vue3-viewer](https://github.com/mirari/vue3-viewer) - Image viewer component for Vue 3, supports rotation, scale, zoom and so on.
+- [smart-table](https://vue-smart-table.netlify.app/) - Simple and feature packed table components. Sorting, filtering, selection and pagination out of the box.
 
 ## Examples
 
