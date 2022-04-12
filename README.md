@@ -33,6 +33,7 @@ A curated list of awesome things related to Vue 3
 - [RFCs for substantial changes / feature additions to Vue core](https://github.com/vuejs/rfcs)
 
 ## Related awesome lists
+
 - [Vite](https://github.com/vitejs/awesome-vite)
 - [General](https://github.com/vuejs/awesome-vue)
 
@@ -168,6 +169,7 @@ A curated list of awesome things related to Vue 3
 - [v-calendar](https://vcalendar.io/) - An elegant calendar and datepicker plugin for Vuejs
 - [vue-highlight](https://github.com/point-hub/vue-highlight) - Vue 3 directive for highlight.js.
 - [superBVue](https://github.com/superbvue/SuperBVue) - A Vue 3 UI Components for Web is based on boostrap 5.
+- [vue-color-kit](https://github.com/anish2690/vue-color-kit) -🎨 A Vue 3 color picker component. lightweight, modern, and no dependence.
 
 ## Examples
 
