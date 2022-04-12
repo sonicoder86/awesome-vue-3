@@ -195,6 +195,8 @@ A curated list of awesome things related to Vue 3
 - [vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Starter Template based on Vite (Vue 3, Vue Router and Tailwind CSS)
 - [vite-wind](https://github.com/boussadjra/vite-wind) -  Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.
 - [Materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. 
+- [vue-dapp](https://github.com/chnejohnson/vue-dapp) - Vue 3 library for building Dapps with ethers.js.
+
 
 ## Tools
 
