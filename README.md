@@ -181,7 +181,6 @@ A curated list of awesome things related to Vue 3
 
 - [vue-3-playground](https://github.com/blacksonic/vue-3-playground) - Vue 3 Playground packed with all the new features
 - [vue3-webpack-boilerplate](https://github.com/starkovsky/vue3-webpack-boilerplate) - Vue 3 Webpack Boilerplate (Vue 3, Vue Router 4, Vuex 4, Typescript)
-- [vue-composition-toolkit](https://github.com/HcySunYang/vue-composition-toolkit) - 🔫 Vue3 Composition-API toolkit
 - [vite-tailwind-starter](https://github.com/posva/vite-tailwind-starter) - Starter using Vite + Tailwind for super fast prototyping
 - [todomvc-vue-composition-api](https://github.com/blacksonic/todomvc-vue-composition-api) - TodoMVC built with Vue 3 Composition Api and Vuex
 - [composition-api-demos](https://github.com/LinusBorg/composition-api-demos) - A Vue.js app demonstarting various use cases for the new composition API
