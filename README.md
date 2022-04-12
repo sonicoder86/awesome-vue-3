@@ -167,6 +167,7 @@ A curated list of awesome things related to Vue 3
 - [fast-crud](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning
 - [v-calendar](https://vcalendar.io/) - An elegant calendar and datepicker plugin for Vuejs
 - [vue-highlight](https://github.com/point-hub/vue-highlight) - Vue 3 directive for highlight.js.
+- [superBVue](https://github.com/superbvue/SuperBVue) - A Vue 3 UI Components for Web is based on boostrap 5.
 
 ## Examples
 
