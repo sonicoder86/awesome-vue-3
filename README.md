@@ -187,6 +187,7 @@ A curated list of awesome things related to Vue 3
 - [@vueform/toggle](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options (+Tailwind support). [Online Demo](https://github.com/vueform/toggle)
 - [Vueform](https://vueform.com) - Advanced form builder for Vue.js with multi-file upload, conditions, form steps and Tailwind support. [Online Demo](https://vueform.com/examples/basics/simple-form)
 - [vue-timeago3](https://github.com/MrDeerly/vue-timeago3) - A timeago component. Render a timestamp to a Messenger like string.
+- [AgnosticUI](https://www.agnosticui.com/ ) - Accessible Vue 3 Component Primitives (that also works with React, Svelte, and Angular)
 
 ## Examples
 
