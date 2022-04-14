@@ -178,6 +178,7 @@ A curated list of awesome things related to Vue 3
 - [smart-table](https://vue-smart-table.netlify.app/) - Simple and feature packed table components. Sorting, filtering, selection and pagination out of the box.
 - [@casthub/embed](https://github.com/casthub/embed) - iFrame Hook with cross-origin (a)synchronous IPC
 - [@casthub/form](https://github.com/casthub/form) - Vue 3 Form Handling & Validation hook
+- [vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) - vue3-openlayers is components library that brings the powerful OpenLayers API to the Vue3 reactive world. It can display maps with tiled, raster or vector layers loaded from different sources. [Live Demo](https://vue3openlayers.netlify.app/demo/)
 
 ## Examples
 
