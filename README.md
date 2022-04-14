@@ -200,7 +200,7 @@ A curated list of awesome things related to Vue 3
 - [Materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. 
 - [vue-dapp](https://github.com/chnejohnson/vue-dapp) - Vue 3 library for building Dapps with ethers.js.
 - [vue-timer-hook](https://riderx.github.io/vue-timer-hook/) - Demo Vue 3 Timer module inspired by react-timer-hook
-
+- [vue3-default-preset-demo](https://github.com/j-kav/vue3-default-preset-demo) - A demo app the new Vue 3.0 Composition API, Vuex, Router.
 
 ## Tools
 
