@@ -189,6 +189,7 @@ A curated list of awesome things related to Vue 3
 - [vue-timeago3](https://github.com/MrDeerly/vue-timeago3) - A timeago component. Render a timestamp to a Messenger like string.
 - [AgnosticUI](https://www.agnosticui.com/ ) - Accessible Vue 3 Component Primitives (that also works with React, Svelte, and Angular)
 - [FormKit](https://formkit.com) — ⚡️ Form generator, inputs, validation, internationalization (i18n) and much more.
+- [timer-hook](https://github.com/riderx/vue-timer-hook) - Handle timer, stopwatch, and time logic/state in your vue 3 component.
 
 ## Examples
 
