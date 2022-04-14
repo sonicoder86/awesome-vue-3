@@ -199,6 +199,7 @@ A curated list of awesome things related to Vue 3
 - [vite-wind](https://github.com/boussadjra/vite-wind) -  Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.
 - [Materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. 
 - [vue-dapp](https://github.com/chnejohnson/vue-dapp) - Vue 3 library for building Dapps with ethers.js.
+- [vue-timer-hook](https://riderx.github.io/vue-timer-hook/) - Demo Vue 3 Timer module inspired by react-timer-hook
 
 
 ## Tools
