@@ -188,6 +188,7 @@ A curated list of awesome things related to Vue 3
 - [Vueform](https://vueform.com) - Advanced form builder for Vue.js with multi-file upload, conditions, form steps and Tailwind support. [Online Demo](https://vueform.com/examples/basics/simple-form)
 - [vue-timeago3](https://github.com/MrDeerly/vue-timeago3) - A timeago component. Render a timestamp to a Messenger like string.
 - [AgnosticUI](https://www.agnosticui.com/ ) - Accessible Vue 3 Component Primitives (that also works with React, Svelte, and Angular)
+- [FormKit](https://formkit.com) — ⚡️ Form generator, inputs, validation, internationalization (i18n) and much more.
 
 ## Examples
 
