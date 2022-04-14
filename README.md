@@ -106,6 +106,8 @@ A curated list of awesome things related to Vue 3
 - [Pinia, an Alternative Vue.js Store](https://vueschool.io/articles/vuejs-tutorials/pinia-an-alternative-vue-js-store/)
 - [State Management in Vue 3 Applications](https://auth0.com/blog/state-management-in-vue-3-applications/)
 - [What's new in Vue 3.1?](https://blog.ninja-squad.com/2021/06/07/what-is-new-vue-3.1/)
+- [Template to create vue 3, vuex 4 with modules, typescript project](https://dev.to/shubhadip/vue-3-vuex-4-modules-typescript-2i2o)
+- [Adding server side rendering to existing vue 3 projects](https://dev.to/shubhadip/adding-server-side-rendering-to-existing-vue-3-project-53oo)
 
 ## Packages
 
@@ -201,6 +203,9 @@ A curated list of awesome things related to Vue 3
 - [vue-dapp](https://github.com/chnejohnson/vue-dapp) - Vue 3 library for building Dapps with ethers.js.
 - [vue-timer-hook](https://riderx.github.io/vue-timer-hook/) - Demo Vue 3 Timer module inspired by react-timer-hook
 - [vue3-default-preset-demo](https://github.com/j-kav/vue3-default-preset-demo) - A demo app the new Vue 3.0 Composition API, Vuex, Router.
+- [vite-wind](https://github.com/boussadjra/vite-wind) - Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.
+- [Materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template.
+- [Building Vue 3 Component Library with Rollup](https://dev.to/shubhadip/vue-3-component-library-2le8)
 
 ## Tools
 
