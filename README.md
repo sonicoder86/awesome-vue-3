@@ -209,6 +209,7 @@ A curated list of awesome things related to Vue 3
 - [Building Vue 3 Component Library with Rollup](https://dev.to/shubhadip/vue-3-component-library-2le8)
 - [vue3-vite2-chrome-extension-demo](https://github.com/betterRunner/context-note) - A note-taking chrome extension built by Vue3 & Vite2.
 - [Materio-vuetify-vuejs-laravel-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) - Open-source & easy to use Vuetify Vuejs Laravel Admin Template with Elegant Design & Unique Layout.
+- [vue3-compact-template](https://github.com/upupming/vue3-compact-template) - ⚡️ A simple and compact vue 3 template with current cutting edge front end technologies.
 
 ## Tools
 
