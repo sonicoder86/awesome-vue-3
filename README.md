@@ -182,6 +182,10 @@ A curated list of awesome things related to Vue 3
 - [@casthub/form](https://github.com/casthub/form) - Vue 3 Form Handling & Validation hook
 - [vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) - vue3-openlayers is components library that brings the powerful OpenLayers API to the Vue3 reactive world. It can display maps with tiled, raster or vector layers loaded from different sources. [Live Demo](https://vue3openlayers.netlify.app/demo/)
 - [vue3-pdfmake](https://github.com/Novout/vue-pdfmake) - A PDFMake Plugin for Vue 3.x
+- [@vueform/multiselect](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options (+Tailwind support). [Online Demo](https://github.com/vueform/multiselect)
+- [@vueform/slider](https://github.com/vueform/slider) - Vue 3 slider component with multihandles, tooltips merging and formatting (+Tailwind support). [Online Demo](https://github.com/vueform/slider)
+- [@vueform/toggle](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options (+Tailwind support). [Online Demo](https://github.com/vueform/toggle)
+- [Vueform](https://vueform.com) - Advanced form builder for Vue.js with multi-file upload, conditions, form steps and Tailwind support. [Online Demo](https://vueform.com/examples/basics/simple-form)
 
 ## Examples
 
