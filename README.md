@@ -117,6 +117,7 @@ A curated list of awesome things related to Vue 3
 - [vue-test-utils-next](https://github.com/vuejs/vue-test-utils-next) - The next iteration of Vue Test Utils, targeting Vue 3
 - [composition-api](https://github.com/vuejs/composition-api) - Vue2 plugin for the Composition API.
 - [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast.
+- [vitest](https://vitest.dev/) - A blazing fast unit-test framework powered by Vite ⚡️
 - [vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator
 - [vue-use-web](https://github.com/logaretm/vue-use-web) - 🕸 Web APIs implemented as Vue.js composition functions
 - [vee-validate](https://github.com/logaretm/vee-validate/tree/next) - VeeValidate (v4) Vue 3 Template driven form validation
