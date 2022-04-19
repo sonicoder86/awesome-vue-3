@@ -191,6 +191,7 @@ A curated list of awesome things related to Vue 3
 - [AgnosticUI](https://www.agnosticui.com/ ) - Accessible Vue 3 Component Primitives (that also works with React, Svelte, and Angular)
 - [FormKit](https://formkit.com) — ⚡️ Form generator, inputs, validation, internationalization (i18n) and much more.
 - [timer-hook](https://github.com/riderx/vue-timer-hook) - Handle timer, stopwatch, and time logic/state in your vue 3 component.
+- [vue3-dnd](https://github.com/hcg1023/vue3-dnd) - React DnD vue3 implementation, free drag via hooks.
 
 ## Examples
 
