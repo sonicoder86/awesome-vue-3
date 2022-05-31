@@ -9,7 +9,6 @@
 
 A curated list of awesome things related to Vue 3
 
-
 - [Awesome Vue 3 ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-vue-3-)
 - [Resources](#resources)
   - [Official](#official)
@@ -22,9 +21,7 @@ A curated list of awesome things related to Vue 3
   - [Books](#books)
   - [Courses](#courses)
 
-
 # Resources
-
 
 ## Official
 
@@ -108,6 +105,7 @@ A curated list of awesome things related to Vue 3
 - [What's new in Vue 3.1?](https://blog.ninja-squad.com/2021/06/07/what-is-new-vue-3.1/)
 - [Template to create vue 3, vuex 4 with modules, typescript project](https://dev.to/shubhadip/vue-3-vuex-4-modules-typescript-2i2o)
 - [Adding server side rendering to existing vue 3 projects](https://dev.to/shubhadip/adding-server-side-rendering-to-existing-vue-3-project-53oo)
+- [Getting started with Vite and Vue 3](https://blog.ninja-squad.com/2022/02/23/getting-started-with-vite-and-vue/)
 
 ## Packages
 
@@ -188,7 +186,7 @@ A curated list of awesome things related to Vue 3
 - [@vueform/toggle](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options (+Tailwind support). [Online Demo](https://github.com/vueform/toggle)
 - [Vueform](https://vueform.com) - Advanced form builder for Vue.js with multi-file upload, conditions, form steps and Tailwind support. [Online Demo](https://vueform.com/examples/basics/simple-form)
 - [vue-timeago3](https://github.com/MrDeerly/vue-timeago3) - A timeago component. Render a timestamp to a Messenger like string.
-- [AgnosticUI](https://www.agnosticui.com/ ) - Accessible Vue 3 Component Primitives (that also works with React, Svelte, and Angular)
+- [AgnosticUI](https://www.agnosticui.com/) - Accessible Vue 3 Component Primitives (that also works with React, Svelte, and Angular)
 - [FormKit](https://formkit.com) — ⚡️ Form generator, inputs, validation, internationalization (i18n) and much more.
 - [timer-hook](https://github.com/riderx/vue-timer-hook) - Handle timer, stopwatch, and time logic/state in your vue 3 component.
 - [vue3-dnd](https://github.com/hcg1023/vue3-dnd) - React DnD vue3 implementation, free drag via hooks.
@@ -212,8 +210,8 @@ A curated list of awesome things related to Vue 3
 - [vue3-ssr-realworld-example-app](https://github.com/levchak0910/vue3-ssr-realworld-example-app) - [Realworld](https://github.com/gothinkster/realworld) app implementation using Vue 3 with SSR
 - [vue3-md-blog](https://github.com/yeikiu/vue3-md-blog) - ✍️ Minimal config Vue3 + Markdown blog engine
 - [vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Starter Template based on Vite (Vue 3, Vue Router and Tailwind CSS)
-- [vite-wind](https://github.com/boussadjra/vite-wind) -  Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.
-- [Materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. 
+- [vite-wind](https://github.com/boussadjra/vite-wind) - Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.
+- [Materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template.
 - [vue-dapp](https://github.com/chnejohnson/vue-dapp) - Vue 3 library for building Dapps with ethers.js.
 - [vue-timer-hook](https://riderx.github.io/vue-timer-hook/) - Demo Vue 3 Timer module inspired by react-timer-hook
 - [vue3-default-preset-demo](https://github.com/j-kav/vue3-default-preset-demo) - A demo app the new Vue 3.0 Composition API, Vuex, Router.
