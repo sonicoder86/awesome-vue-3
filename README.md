@@ -192,6 +192,7 @@ A curated list of awesome things related to Vue 3
 - [vue3-dnd](https://github.com/hcg1023/vue3-dnd) - React DnD vue3 implementation, free drag via hooks.
 - [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Vue.js 3.0 UI Library
 - [vue-video-annotation](https://github.com/xwellingtonx/vue-video-annotation) - Vue3 component that allows adding annotations to videos by free drawing or adding shapes like circles, squares, and arrows.
+- [qalendar](https://github.com/tomosterlund/qalendar) - A component library with an event calendar & datepicker.
 
 ## Examples
 
