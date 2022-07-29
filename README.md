@@ -195,6 +195,7 @@ A curated list of awesome things related to Vue 3
 - [qalendar](https://github.com/tomosterlund/qalendar) - A component library with an event calendar & datepicker.
 - [Vuedoc Markdown](https://gitlab.com/vuedoc/md) - Generate a Markdown Documentation for a Vue Component
 - [Vuedoc Parser](https://gitlab.com/vuedoc/parser) - Generate a JSON documentation for a Vue component
+- [vorms](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
 
 ## Examples
 
