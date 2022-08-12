@@ -196,6 +196,7 @@ A curated list of awesome things related to Vue 3
 - [Vuedoc Markdown](https://gitlab.com/vuedoc/md) - Generate a Markdown Documentation for a Vue Component
 - [Vuedoc Parser](https://gitlab.com/vuedoc/parser) - Generate a JSON documentation for a Vue component
 - [vorms](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
+- [@vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker) - The most complete datepicker solution for Vue 3
 
 ## Examples
 
