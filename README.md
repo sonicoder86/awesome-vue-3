@@ -198,6 +198,7 @@ A curated list of awesome things related to Vue 3
 - [vorms](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
 - [@vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker) - The most complete datepicker solution for Vue 3
 - [vue-tailwind-datepicker](https://github.com/elreco/vue-tailwind-datepicker) - A modern datepicker made with Tailwind for Vue 3
+- [Vue USWDS](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
 
 ## Examples
 
