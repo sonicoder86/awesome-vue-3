@@ -200,6 +200,7 @@ A curated list of awesome things related to Vue 3
 - [vue-tailwind-datepicker](https://github.com/elreco/vue-tailwind-datepicker) - A modern datepicker made with Tailwind for Vue 3
 - [Vue Icons](https://www.npmjs.com/package/@kalimahapps/vue-icons) - vue3 library with more than 50,000 SVG icons to integrate into vue projects. [Online Demo](https://vue-icons.kalimah-apps.com/)
 - [Vue Popper](https://www.npmjs.com/package/@kalimahapps/vue-popper) - A tooltip component for vue3 using popperjs
+- [Vue USWDS](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
 - [Vue BaseTooltip](https://github.com/CarlLDreyer/vue-base-tooltip) - A simple and performant tooltip plugin using Floating UI.
 
 ## Examples
