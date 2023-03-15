@@ -234,6 +234,7 @@ A curated list of awesome things related to Vue 3
 - [CoreUI for Vue](https://github.com/coreui/coreui-vue) - An Open Source UI components library for Vue 3
 - [vue3 2048 game](https://github.com/nicosrc/vue-2048) - A vue 3 implemention of the popular 2048 game
 - [Vue3 Starter Template](https://github.com/M-Media-Group/Vue3-SPA-starter-template) = A Vue3 starter kit with full authentication routes, payment support, multilingual abilities, a global event bus, meta+schema tag generators, and more!
+- [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The Ultimate VueJS Admin Template for building responsive web apps
 
 ## Tools
 
