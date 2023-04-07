@@ -202,6 +202,7 @@ A curated list of awesome things related to Vue 3
 - [Vue Popper](https://www.npmjs.com/package/@kalimahapps/vue-popper) - A tooltip component for vue3 using popperjs
 - [Vue USWDS](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
 - [Vue BaseTooltip](https://github.com/CarlLDreyer/vue-base-tooltip) - A simple and performant tooltip plugin using Floating UI.
+- [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and a SCSS framework integrated.
 
 ## Examples
 
