@@ -20,6 +20,7 @@ A curated list of awesome things related to Vue 3
   - [Videos](#videos)
   - [Books](#books)
   - [Courses](#courses)
+  - [Form editor](#form-editor)
 
 # Resources
 
@@ -287,3 +288,7 @@ A curated list of awesome things related to Vue 3
 - [Become a Ninja with Vue - online training (EN and FR versions)](https://vue-exercises.ninja-squad.com)
 - [Introduction to Vue 3](https://frontendmasters.com/courses/vue-3/)
 - [Build Web Apps with Vue JS 3 & Firebase](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/)
+
+## Form editor
+
+- [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor. The PC depends on element-plus while the mobile depends on vant.
