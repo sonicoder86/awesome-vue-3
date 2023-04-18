@@ -15,12 +15,12 @@ A curated list of awesome things related to Vue 3
   - [Related awesome lists](#related-awesome-lists)
   - [Articles](#articles)
   - [Packages](#packages)
+    - [Form editor](#form-editor)
   - [Examples](#examples)
   - [Tools](#tools)
   - [Videos](#videos)
   - [Books](#books)
   - [Courses](#courses)
-  - [Form editor](#form-editor)
 
 # Resources
 
@@ -204,6 +204,9 @@ A curated list of awesome things related to Vue 3
 - [Vue USWDS](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
 - [Vue BaseTooltip](https://github.com/CarlLDreyer/vue-base-tooltip) - A simple and performant tooltip plugin using Floating UI.
 
+#### Form editor
+
+- [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor. The PC depends on element-plus while the mobile depends on vant.
 ## Examples
 
 - [vue-3-playground](https://github.com/blacksonic/vue-3-playground) - Vue 3 Playground packed with all the new features
@@ -288,7 +291,3 @@ A curated list of awesome things related to Vue 3
 - [Become a Ninja with Vue - online training (EN and FR versions)](https://vue-exercises.ninja-squad.com)
 - [Introduction to Vue 3](https://frontendmasters.com/courses/vue-3/)
 - [Build Web Apps with Vue JS 3 & Firebase](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/)
-
-## Form editor
-
-- [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor. The PC depends on element-plus while the mobile depends on vant.
