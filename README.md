@@ -106,6 +106,7 @@ A curated list of awesome things related to Vue 3
 - [Template to create vue 3, vuex 4 with modules, typescript project](https://dev.to/shubhadip/vue-3-vuex-4-modules-typescript-2i2o)
 - [Adding server side rendering to existing vue 3 projects](https://dev.to/shubhadip/adding-server-side-rendering-to-existing-vue-3-project-53oo)
 - [Getting started with Vite and Vue 3](https://blog.ninja-squad.com/2022/02/23/getting-started-with-vite-and-vue/)
+- [Implementing Auto Update Feature in Vite Plugin PWA](https://jaybharadia.hashnode.dev/implementing-auto-update-feature-in-vite-plugin-pwa)
 
 ## Packages
 
