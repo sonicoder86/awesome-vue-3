@@ -15,6 +15,7 @@ A curated list of awesome things related to Vue 3
   - [Related awesome lists](#related-awesome-lists)
   - [Articles](#articles)
   - [Packages](#packages)
+    - [Form editor](#form-editor)
   - [Examples](#examples)
   - [Tools](#tools)
   - [Videos](#videos)
@@ -202,7 +203,11 @@ A curated list of awesome things related to Vue 3
 - [Vue Popper](https://www.npmjs.com/package/@kalimahapps/vue-popper) - A tooltip component for vue3 using popperjs
 - [Vue USWDS](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
 - [Vue BaseTooltip](https://github.com/CarlLDreyer/vue-base-tooltip) - A simple and performant tooltip plugin using Floating UI.
+- [Everright-filter](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.
 
+#### Form editor
+
+- [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor. The PC depends on element-plus while the mobile depends on vant.
 ## Examples
 
 - [vue-3-playground](https://github.com/blacksonic/vue-3-playground) - Vue 3 Playground packed with all the new features
