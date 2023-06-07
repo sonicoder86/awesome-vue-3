@@ -25,8 +25,8 @@ A curated list of awesome things related to Vue 3
 
 ## Official
 
-- [Official Documentation](https://v3.vuejs.org/)
-- [Vue Composition API](https://v3.vuejs.org/guide/introduction.html)
+- [Official Documentation](https://vuejs.org/)
+- [Vue Composition API](https://vuejs.org/guide/introduction.html)
 - [RFCs for substantial changes / feature additions to Vue core](https://github.com/vuejs/rfcs)
 
 ## Related awesome lists
@@ -233,8 +233,10 @@ A curated list of awesome things related to Vue 3
 - [vue3-compact-template](https://github.com/upupming/vue3-compact-template) - ⚡️ A simple and compact vue 3 template with current cutting edge front end technologies.
 - [CoreUI for Vue](https://github.com/coreui/coreui-vue) - An Open Source UI components library for Vue 3
 - [vue3 2048 game](https://github.com/nicosrc/vue-2048) - A vue 3 implemention of the popular 2048 game
+- [vue3 MineSweeper game](https://github.com/LeonardoSalvucci/mine-sweeper) - A vue 3 implemention of classical MineSweeper retro game
 - [Vue3 Starter Template](https://github.com/M-Media-Group/Vue3-SPA-starter-template) = A Vue3 starter kit with full authentication routes, payment support, multilingual abilities, a global event bus, meta+schema tag generators, and more!
 - [Sneat Free Vuetify VueJS Admin Template](https://github.com/themeselection/sneat-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Opensource & Free Vuejs admin template.
+- [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The Ultimate VueJS Admin Template for building responsive web apps
 
 ## Tools
 
