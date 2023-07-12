@@ -118,7 +118,7 @@ A curated list of awesome things related to Vue 3
 - [vitest](https://vitest.dev/) - A blazing fast unit-test framework powered by Vite ⚡️
 - [vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator
 - [vue-use-web](https://github.com/logaretm/vue-use-web) - 🕸 Web APIs implemented as Vue.js composition functions
-- [vee-validate](https://github.com/logaretm/vee-validate/tree/next) - VeeValidate (v4) Vue 3 Template driven form validation
+- [vee-validate](https://github.com/logaretm/vee-validate/) - VeeValidate (v4) Vue 3 Template driven form validation
 - [vuelidate-next](https://github.com/vuelidate/vuelidate/tree/next) - Vuelidate (next) - Simple, lightweight model-based validation
 - [vue-compose-promise](https://github.com/posva/vue-compose-promise) - 💝 Promises using vue composition API
 - [vue-composition-toolkit](https://github.com/soouup/vue-composition-toolkit) - 💚 Vue3 Composition-API toolkit
