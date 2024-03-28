@@ -107,6 +107,7 @@ A curated list of awesome things related to Vue 3
 - [Adding server side rendering to existing vue 3 projects](https://dev.to/shubhadip/adding-server-side-rendering-to-existing-vue-3-project-53oo)
 - [Getting started with Vite and Vue 3](https://blog.ninja-squad.com/2022/02/23/getting-started-with-vite-and-vue/)
 - [Implementing Auto Update Feature in Vite Plugin PWA](https://jaybharadia.hashnode.dev/implementing-auto-update-feature-in-vite-plugin-pwa)
+- [Add testing to Vite](https://sonicoder.com/blog/add-testing-to-vite)
 
 ## Packages
 
