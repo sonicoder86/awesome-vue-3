@@ -203,6 +203,7 @@ A curated list of awesome things related to Vue 3
 - [Vue Popper](https://www.npmjs.com/package/@kalimahapps/vue-popper) - A tooltip component for vue3 using popperjs
 - [Vue USWDS](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
 - [Vue BaseTooltip](https://github.com/CarlLDreyer/vue-base-tooltip) - A simple and performant tooltip plugin using Floating UI.
+- [v-hide directive](https://github.com/ventralnet/v-hide) - v-hide directive to accompany v-if and v-show, but keep hidden space in layout
 - [V-privacy](https://github.com/fchancel/v-privacy) - A Vue 3 plugin that allows you to manage the privacy of an HTML element by blurring its content and optional encrypt node text data in DOM.
 - [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and a SCSS framework integrated.
 - [Vue 3 Easter Egg Trigger](https://github.com/webdevnerdstuff/vue3-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue3 site.
