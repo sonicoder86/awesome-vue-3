@@ -203,6 +203,9 @@ A curated list of awesome things related to Vue 3
 - [Vue Popper](https://www.npmjs.com/package/@kalimahapps/vue-popper) - A tooltip component for vue3 using popperjs
 - [Vue USWDS](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
 - [Vue BaseTooltip](https://github.com/CarlLDreyer/vue-base-tooltip) - A simple and performant tooltip plugin using Floating UI.
+- [@kolirt/vue-web3-auth](https://github.com/kolirt/vue-web3-auth) - Simple WalletConnect Web3Modal v2 integration package for Vue3 apps.
+- [@kolirt/vue-modal](https://github.com/kolirt/vue-modal) - Easy to use and highly customizable Vue3 modal package.
+- [vite-plugin-robots](https://github.com/kolirt/vite-plugin-robots) - Plugin for Vite to generating robots.txt for production and development builds.
 - [Virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list component for React, Vue and Solid.
 - [vue-file-upload](https://github.com/canopas/web-file-upload/vue) - A file management system built with `Vue3` and `TypeScript` that allows for single and multiple file uploading with a preview feature
 - [Vue Virtual Waterfall](https://github.com/lhlyu/vue-virtual-waterfall) - A vue3 virtual waterfall component
