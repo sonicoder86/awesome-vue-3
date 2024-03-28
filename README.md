@@ -241,6 +241,7 @@ A curated list of awesome things related to Vue 3
 - [vue3 MineSweeper game](https://github.com/LeonardoSalvucci/mine-sweeper) - A vue 3 implemention of classical MineSweeper retro game
 - [Vue3 Starter Template](https://github.com/M-Media-Group/Vue3-SPA-starter-template) = A Vue3 starter kit with full authentication routes, payment support, multilingual abilities, a global event bus, meta+schema tag generators, and more!
 - [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The Ultimate VueJS Admin Template for building responsive web apps
+- [Sneat Free Vuetify VueJS Admin Template](https://github.com/themeselection/sneat-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Opensource & Free Vuejs admin template.
 - [Vue3 Atomic Design](https://github.com/alexander-elgin/vue3-atomic-design) - A Vue3 boilerplate based on atomic design methodology
 
 ## Tools
