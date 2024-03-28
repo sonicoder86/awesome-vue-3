@@ -106,6 +106,7 @@ A curated list of awesome things related to Vue 3
 - [Template to create vue 3, vuex 4 with modules, typescript project](https://dev.to/shubhadip/vue-3-vuex-4-modules-typescript-2i2o)
 - [Adding server side rendering to existing vue 3 projects](https://dev.to/shubhadip/adding-server-side-rendering-to-existing-vue-3-project-53oo)
 - [Getting started with Vite and Vue 3](https://blog.ninja-squad.com/2022/02/23/getting-started-with-vite-and-vue/)
+- [Implementing Auto Update Feature in Vite Plugin PWA](https://jaybharadia.hashnode.dev/implementing-auto-update-feature-in-vite-plugin-pwa)
 
 ## Packages
 
@@ -118,7 +119,7 @@ A curated list of awesome things related to Vue 3
 - [vitest](https://vitest.dev/) - A blazing fast unit-test framework powered by Vite ⚡️
 - [vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator
 - [vue-use-web](https://github.com/logaretm/vue-use-web) - 🕸 Web APIs implemented as Vue.js composition functions
-- [vee-validate](https://github.com/logaretm/vee-validate/tree/next) - VeeValidate (v4) Vue 3 Template driven form validation
+- [vee-validate](https://github.com/logaretm/vee-validate/) - VeeValidate (v4) Vue 3 Template driven form validation
 - [vuelidate-next](https://github.com/vuelidate/vuelidate/tree/next) - Vuelidate (next) - Simple, lightweight model-based validation
 - [vue-compose-promise](https://github.com/posva/vue-compose-promise) - 💝 Promises using vue composition API
 - [vue-composition-toolkit](https://github.com/soouup/vue-composition-toolkit) - 💚 Vue3 Composition-API toolkit
@@ -203,6 +204,11 @@ A curated list of awesome things related to Vue 3
 - [Vue USWDS](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
 - [Vue BaseTooltip](https://github.com/CarlLDreyer/vue-base-tooltip) - A simple and performant tooltip plugin using Floating UI.
 - [vue-file-upload](https://github.com/canopas/web-file-upload/vue) - A file management system built with `Vue3` and `TypeScript` that allows for single and multiple file uploading with a preview feature
+- [Vue Virtual Waterfall](https://github.com/lhlyu/vue-virtual-waterfall) - A vue3 virtual waterfall component
+- [v-hide directive](https://github.com/ventralnet/v-hide) - v-hide directive to accompany v-if and v-show, but keep hidden space in layout
+- [V-privacy](https://github.com/fchancel/v-privacy) - A Vue 3 plugin that allows you to manage the privacy of an HTML element by blurring its content and optional encrypt node text data in DOM.
+- [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and a SCSS framework integrated.
+- [Vue 3 Easter Egg Trigger](https://github.com/webdevnerdstuff/vue3-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue3 site.
 
 ## Examples
 
@@ -237,6 +243,9 @@ A curated list of awesome things related to Vue 3
 - [vue3 MineSweeper game](https://github.com/LeonardoSalvucci/mine-sweeper) - A vue 3 implemention of classical MineSweeper retro game
 - [Vue3 Starter Template](https://github.com/M-Media-Group/Vue3-SPA-starter-template) = A Vue3 starter kit with full authentication routes, payment support, multilingual abilities, a global event bus, meta+schema tag generators, and more!
 - [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The Ultimate VueJS Admin Template for building responsive web apps
+- [Pinx](https://themeforest.net/item/pinx-vuejs-admin-template/47799543?ref=DverseStudio&utm_source=awesomevue) - Pinx is an admin template crafted with Vue 3 + TypeScript, developer-friendly and designed with Naive UI and Tailwind CSS. Nuxt compatible !
+- [Sneat Free Vuetify VueJS Admin Template](https://github.com/themeselection/sneat-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Opensource & Free Vuejs admin template.
+- [Vue3 Atomic Design](https://github.com/alexander-elgin/vue3-atomic-design) - A Vue3 boilerplate based on atomic design methodology
 
 ## Tools
 
