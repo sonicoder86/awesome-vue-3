@@ -168,6 +168,7 @@ A curated list of awesome things related to Vue 3
 - [vue-advanced-cropper](https://github.com/Norserium/vue-advanced-cropper/tree/vue-next) - The advanced vue cropper library that gives you opportunity to create your own croppers suited for any website design.
 - [vue-visual-filter](https://github.com/obadakhalili/vue-visual-filter) - An unopinionated visual filtering component for Vue 3.
 - [vue-simple-acl](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
+- [vue-middleware](https://github.com/themustafaomar/vue-middleware) - A lightweight and powerful Vue3 plugin for creating custom middlewares and manage roles and permissions with zero-config.
 - [reforms.js](https://reforms.js.org) - Vue 3 and Bootstrap 5 forms and cards generator.
 - [vue3-touch-events](https://github.com/robinrodricks/vue3-touch-events) - Enable tap / swipe / touch / hold / mouse down / mouse up events for HTML DOM elements
 - [element-plus](https://element-plus.org/) - Vue 3.0 component library with over 50 components, for developers, designers and product managers
