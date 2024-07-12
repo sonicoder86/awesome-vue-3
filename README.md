@@ -255,6 +255,8 @@ A curated list of awesome things related to Vue 3
 - [Pinx](https://themeforest.net/item/pinx-vuejs-admin-template/47799543?ref=DverseStudio&utm_source=awesomevue) - Pinx is an admin template crafted with Vue 3 + TypeScript, developer-friendly and designed with Naive UI and Tailwind CSS. Nuxt compatible !
 - [Sneat Free Vuetify VueJS Admin Template](https://github.com/themeselection/sneat-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Opensource & Free Vuejs admin template.
 - [Vue3 Atomic Design](https://github.com/alexander-elgin/vue3-atomic-design) - A Vue3 boilerplate based on atomic design methodology
+- [Sneat-free-vuetify-nuxtjs-admin-template](https://github.com/themeselection/sneat-vuetify-nuxtjs-admin-template-free) - Open Source NuxtJS admin template based on latest Vuetify, NuxtJS 3, Vue 3 & Typescript for developing responsive web apps with ease.
+
 
 ## Tools
 
