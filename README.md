@@ -216,6 +216,7 @@ A curated list of awesome things related to Vue 3
 - [V-privacy](https://github.com/fchancel/v-privacy) - A Vue 3 plugin that allows you to manage the privacy of an HTML element by blurring its content and optional encrypt node text data in DOM.
 - [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and a SCSS framework integrated.
 - [Vue 3 Easter Egg Trigger](https://github.com/webdevnerdstuff/vue3-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue3 site.
+- [vue3-select-component](https://github.com/TotomInc/vue3-select-component) - Vue 3 Select Component, single & multi-select, best-in-class DX support with TypeScript end-to-end typesafe, easy styling, slots and more ~4.4KB
 
 ## Examples
 
