@@ -109,6 +109,7 @@ A curated list of awesome things related to Vue 3
 - [Getting started with Vite and Vue 3](https://blog.ninja-squad.com/2022/02/23/getting-started-with-vite-and-vue/)
 - [Implementing Auto Update Feature in Vite Plugin PWA](https://jaybharadia.hashnode.dev/implementing-auto-update-feature-in-vite-plugin-pwa)
 - [Add testing to Vite](https://sonicoder.com/blog/add-testing-to-vite)
+- [Use SVG Icons in Vue 3 with Vite](https://iconvectors.io/tutorials/use-svg-icons-in-vue-3-with-vite.html) - Practical guide to integrating, theming and using SVG icons in Vue 3 applications with Vite.
 
 ## Packages
 
